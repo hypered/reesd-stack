@@ -1,0 +1,84 @@
+name:                reesd-dependencies
+version:             0.0.0
+Cabal-Version:       >= 1.8
+synopsis:            Reesd depdendencies builder.
+description:         Build dependencies for the Reesd code base.
+category:            System
+license:             BSD3
+license-file:        LICENSE
+author:              Vo Minh Thu
+maintainer:          thu@hypered.io
+build-type:          Simple
+homepage:            https://bitbucket.com/noteed/hypered-dependencies
+
+source-repository head
+  type: git
+  location: git://github.com/noteed/reesd-stack.git
+
+executable reesd-dependencies
+  hs-source-dirs:      bin
+  main-is:             reesd-dependencies.hs
+  build-depends:       
+
+    HsOpenSSL == 0.10.*,
+    MonadCatchIO-transformers >= 0.2 && < 0.4,
+    SHA == 1.6.*,
+    aeson == 0.6.*,
+    attoparsec == 0.10.4.0,
+    authenticate == 1.3.*,
+    base == 4.*,
+    binary == 0.7.1.0,
+    blaze-builder == 0.3.*,
+    blaze-html == 0.5.*,
+    bytestring > 0.9 && < 0.11,
+    case-insensitive == 1.1.*,
+    cereal == 0.3.5.2,
+    cipher-aes == 0.1.8,
+    cmdargs == 0.9.*,
+    comonad == 3.0.3,
+    containers >= 0.4 && < 0.6,
+    contravariant == 0.5.*,
+    crypto-numbers == 0.1.3,
+    crypto-pubkey == 0.1.4,
+    directory >= 1.1 && < 1.3,
+    either == 3.4.2,
+    filemanip == 0.3.*,
+    filepath >= 1.2 && < 1.4,
+    hashable == 1.1.*,
+    http-conduit == 1.9.*,
+    http-streams == 0.7.*,
+    io-streams == 1.1.*,
+    lens >= 3.8 && < 4.0,
+    mime-mail == 0.4.4,
+    mtl == 2.1.*,
+    network == 2.4.*,
+    old-locale == 1.0.*,
+    postgresql-simple >= 0.2 && < 0.4,
+    process == 1.1.*,
+    profunctors == 3.*,
+    pwstore-fast == 2.3.*,
+    random == 1.0.*,
+    regex-posix == 0.95.*,
+    resource-pool-catchio == 0.2.*,
+    safecopy == 0.8.*,
+    semigroupoids == 3.1,
+    shake == 0.13.*,
+    smtp-mail == 0.1.*,
+    snap >= 0.11.2 && <0.12,
+    snap-blaze == 0.2.*,
+    snap-core == 0.9.4.1,
+    snap-server == 0.9.*,
+    snaplet-postgresql-simple == 0.4.*,
+    tagged == 0.4.5,
+    template == 0.2.*,
+    temporary == 1.1.*,
+    text == 0.11.3.1,
+    thyme == 0.3.3.0,
+    time == 1.4.*,
+    tls-extra == 0.6.4,
+    transformers == 0.3.*,
+    transformers-compat == 0.1.*,
+    unix == 2.5.*,
+    unordered-containers == 0.2.*,
+    vector == 0.10.*,
+    xmlhtml == 0.2.*
