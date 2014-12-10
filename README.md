@@ -33,10 +33,8 @@ gives a list of dependencies to be built together.
 When the Docker image is run, it builds the dependencies. This can be done
 from time to time to make sure everything continues to work together. When the
 image can't be built, it usually means that some new package has appeared on
-Hackage, is picked up by Cabal, which ends up in conflict.
-
-Right now the dependencies lives in the past (those are quite old versions). As
-conflicts arise, additional packages are pinned in the past.
+Hackage, is picked up by Cabal, which ends up in conflict. As conflicts arise,
+additional packages are pinned.
 
 ## `images/stack`
 
