@@ -47,7 +47,7 @@ is such a committed container.
 
 First build the Docker image with the dummy Cabal project:
 
-    > docker build images/stack-dependencies
+    > docker build images/stack-dependencies images/stack-dependencies
 
 Once the image is built, it can be run to `cabal update` and build all the
 dependencies. This is what the second Dockerfile do. Note that the second
@@ -64,3 +64,5 @@ Possible usage of the resulting image:
     > docker run e7d3c36655 ghc-pkg list
     > docker run -t -i e7d3c36655 ghci
     > docker run -v `pwd`:/source e7d3c36655 sh -c 'cd /source ; cabal install'
+
+Normally the second image ID is tagged as `images.reesd.com/reesd/stack`.
