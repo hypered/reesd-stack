@@ -1,7 +1,6 @@
 #! /bin/bash
 
 docker build \
-  --pull \
   --no-cache \
   -t images.reesd.com/reesd/stack-dependencies \
   images/stack-dependencies
