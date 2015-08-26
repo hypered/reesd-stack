@@ -6,4 +6,5 @@ sed -i 's/hackage.haskell.org\/packages\/archive/hackage.reesd.com\//' /home/gus
 cabal update
 
 cd /home/gusdev/stack-dependencies
+cabal install -f-integer-simple text-1.2.1.3
 cabal install --only-dependencies

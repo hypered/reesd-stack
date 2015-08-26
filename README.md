@@ -4,6 +4,12 @@ This repository is used to create Docker images that are essentially Haskell
 compilers, batteries included. It can be compared to a custom Haskell Platform
 or a custom Stackage snapshot.
 
+For reference, here are the packages obtained the last time I built the image:
+
+    > docker run images.reesd.com/reesd/stack > packages.txt
+
+(This contains a fairly recent Hackage subset.)
+
 ## Motivation
 
 For [Reesd](https://reesd.com) we have a small but growing Haskell code base
