@@ -48,6 +48,7 @@ executable reesd-dependencies
     either,
     filemanip,
     filepath,
+    ghcid,
     hashable,
     http-conduit,
     http-streams,
