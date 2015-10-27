@@ -91,5 +91,6 @@ executable reesd-dependencies
     transformers-compat,
     unix,
     unordered-containers,
+    uuid,
     vector,
     xmlhtml
