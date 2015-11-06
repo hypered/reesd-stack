@@ -94,4 +94,6 @@ executable reesd-dependencies
     unordered-containers,
     uuid,
     vector,
+    websockets,
+    websockets-snap,
     xmlhtml
