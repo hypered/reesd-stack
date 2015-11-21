@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:15.10
 
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install -q -y language-pack-en

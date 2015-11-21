@@ -1,4 +1,4 @@
-FROM images.reesd.com/reesd/stack-dependencies
+FROM images.reesd.com/reesd/stack-dependencies:7.8.4
 
 USER gusdev
 WORKDIR /home/gusdev
