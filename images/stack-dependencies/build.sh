@@ -7,4 +7,5 @@ cabal update
 
 cd /home/gusdev/stack-dependencies
 cabal install -f-integer-simple text-1.2.1.3
+cabal install alex happy
 cabal install --only-dependencies

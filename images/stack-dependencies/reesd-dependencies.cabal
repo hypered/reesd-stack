@@ -53,6 +53,7 @@ executable reesd-dependencies
     foreign-store,
     ghcid,
     hashable,
+    hledger == 0.26,
     http-conduit,
     http-streams,
     io-streams,

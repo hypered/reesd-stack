@@ -20,4 +20,5 @@ RUN chown -R gusdev:gusdev /home/gusdev/stack-dependencies
 USER gusdev
 WORKDIR /home/gusdev
 ENV HOME /home/gusdev
+ENV PATH /home/gusdev/.cabal/bin:$PATH
 CMD /home/gusdev/stack-dependencies/build.sh
