@@ -10,9 +10,10 @@ For reference, here are the packages obtained the last time I built the image:
 
 (This contains a fairly recent Hackage subset.)
 
+
 ## Motivation
 
-For [Reesd](https://reesd.com) we have a small but growing Haskell code base
+At [Hypered](https://hypered.io) we have a small but growing Haskell code base
 where we try to create small and reusable programs and libraries. We need that
 different libraries can be linked together and thus require that we have a
 consistent set of dependencies.
@@ -30,6 +31,7 @@ Currently we are using a dummy program with a `.cabal` file (which list the
 dependencies that we want, even if none of them is necessary for the dummy
 program).
 
+
 ## `images/stack-dependencies`
 
 This is both a cabalized Haskell project and a Docker image. The .cabal file
@@ -42,12 +44,23 @@ image can't be built, it usually means that some new package has appeared on
 Hackage, is picked up by Cabal, which ends up in conflict. As conflicts arise,
 additional packages are pinned.
 
+Different versions of GHC and packages are available. The build-depends file
+with "lts" in their name are created from Stackage listing, e.g.
+https://www.stackage.org/lts-7.15. If in addition there is a "-reesd" suffix,
+it means the list was shortened/augmented to Hypered's need.
+
+- ghc-7.8.4 was "hand-made".
+- lts-2.22-reesd is similar but built from lts-2.22. It also contains hakyll
+  and pandoc.
+
+
 ## `images/stack`
 
 A Docker container that built the dependencies (see above) can be commited to
 an image. That image can be used as a binary distribution of a customized
 Haskell Platform, or a batteries-included, self-contained GHC. `images/stack`
 is such a committed container.
+
 
 ## Usage
 

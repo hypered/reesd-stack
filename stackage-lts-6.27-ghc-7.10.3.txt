@@ -1,0 +1,2006 @@
+abstract-deque-0.3                          Abstract, parameterized interface to mutable Deques
+abstract-par-0.3.3                          Type classes generalizing the functionality of the 'monad-par' library
+AC-Vector-2.3.2                             Efficient geometric vectors and transformations
+accelerate-0.15.1.0                         An embedded language for accelerated array processing
+ace-0.6                                     Attempto Controlled English parser and printer
+acid-state-0.14.2                           Add ACID guarantees to any serializable Haskell data structure
+action-permutations-0.0.0.1                 Execute a set of actions (e.g. parsers) in each possible order
+active-0.2.0.10                             Abstractions for animation
+ad-4.3.2.1                                  Automatic Differentiation
+adjunctions-4.3                             Adjunctions and representable functors
+aeson-0.11.2.1                              Fast JSON parsing and encoding
+aeson-better-errors-0.9.1.0                 Better error messages when decoding JSON values
+aeson-casing-0.1.0.5                        Tools to change the formatting of field names in Aeson instances
+aeson-compat-0.3.6                          Compatibility layer for aeson
+aeson-extra-0.3.2.0                         Extra goodies for aeson
+aeson-lens-0.5.0.0                          Lens of Aeson
+aeson-pretty-0.7.2                          JSON pretty-printing library and command-line tool
+aeson-qq-0.8.1                              JSON quasiquoter for Haskell
+aeson-utils-0.3.0.2                         Utilities for working with Aeson
+Agda-2.5.1                                  A dependently typed functional programming language and proof assistant
+agda-snippets-2.5.1                         Render just the Agda snippets of a literate Agda file to HTML
+agda-snippets-hakyll-0.1.2.1                Literate Agda support using agda-snippets, for Hakyll pages
+agentx-0.2.0.0                              AgentX protocol for write SNMP subagents
+airship-0.5.0                               A Webmachine-inspired HTTP library
+alarmclock-0.2.0.9                          Wake up and perform an action at a certain time
+alex-3.1.7                                  Alex is a tool for generating lexical analysers in Haskell
+amazonka-1.4.3                              Comprehensive Amazon Web Services SDK
+amazonka-apigateway-1.4.3                   Amazon API Gateway SDK
+amazonka-autoscaling-1.4.3                  Amazon Auto Scaling SDK
+amazonka-certificatemanager-1.4.3           Amazon Certificate Manager SDK
+amazonka-cloudformation-1.4.3               Amazon CloudFormation SDK
+amazonka-cloudfront-1.4.3                   Amazon CloudFront SDK
+amazonka-cloudhsm-1.4.3                     Amazon CloudHSM SDK
+amazonka-cloudsearch-1.4.3                  Amazon CloudSearch SDK
+amazonka-cloudsearch-domains-1.4.3          Amazon CloudSearch Domain SDK
+amazonka-cloudtrail-1.4.3                   Amazon CloudTrail SDK
+amazonka-cloudwatch-1.4.3                   Amazon CloudWatch SDK
+amazonka-cloudwatch-events-1.4.3            Amazon CloudWatch Events SDK
+amazonka-cloudwatch-logs-1.4.3              Amazon CloudWatch Logs SDK
+amazonka-codecommit-1.4.3                   Amazon CodeCommit SDK
+amazonka-codedeploy-1.4.3                   Amazon CodeDeploy SDK
+amazonka-codepipeline-1.4.3                 Amazon CodePipeline SDK
+amazonka-cognito-identity-1.4.3             Amazon Cognito Identity SDK
+amazonka-cognito-idp-1.4.3                  Amazon Cognito Identity Provider SDK
+amazonka-cognito-sync-1.4.3                 Amazon Cognito Sync SDK
+amazonka-config-1.4.3                       Amazon Config SDK
+amazonka-core-1.4.3                         Core data types and functionality for Amazonka libraries
+amazonka-datapipeline-1.4.3                 Amazon Data Pipeline SDK
+amazonka-devicefarm-1.4.3                   Amazon Device Farm SDK
+amazonka-directconnect-1.4.3                Amazon Direct Connect SDK
+amazonka-dms-1.4.3                          Amazon Database Migration Service SDK
+amazonka-ds-1.4.3                           Amazon Directory Service SDK
+amazonka-dynamodb-1.4.3                     Amazon DynamoDB SDK
+amazonka-dynamodb-streams-1.4.3             Amazon DynamoDB Streams SDK
+amazonka-ec2-1.4.3                          Amazon Elastic Compute Cloud SDK
+amazonka-ecr-1.4.3                          Amazon EC2 Container Registry SDK
+amazonka-ecs-1.4.3                          Amazon EC2 Container Service SDK
+amazonka-efs-1.4.3                          Amazon Elastic File System SDK
+amazonka-elasticache-1.4.3                  Amazon ElastiCache SDK
+amazonka-elasticbeanstalk-1.4.3             Amazon Elastic Beanstalk SDK
+amazonka-elasticsearch-1.4.3                Amazon Elasticsearch Service SDK
+amazonka-elastictranscoder-1.4.3            Amazon Elastic Transcoder SDK
+amazonka-elb-1.4.3                          Amazon Elastic Load Balancing SDK
+amazonka-emr-1.4.3                          Amazon Elastic MapReduce SDK
+amazonka-gamelift-1.4.3                     Amazon GameLift SDK
+amazonka-glacier-1.4.3                      Amazon Glacier SDK
+amazonka-iam-1.4.3                          Amazon Identity and Access Management SDK
+amazonka-importexport-1.4.3                 Amazon Import/Export SDK
+amazonka-inspector-1.4.3                    Amazon Inspector SDK
+amazonka-iot-1.4.3                          Amazon IoT SDK
+amazonka-iot-dataplane-1.4.3                Amazon IoT Data Plane SDK
+amazonka-kinesis-1.4.3                      Amazon Kinesis SDK
+amazonka-kinesis-firehose-1.4.3             Amazon Kinesis Firehose SDK
+amazonka-kms-1.4.3                          Amazon Key Management Service SDK
+amazonka-lambda-1.4.3                       Amazon Lambda SDK
+amazonka-marketplace-analytics-1.4.3        Amazon Marketplace Commerce Analytics SDK
+amazonka-marketplace-metering-1.4.3         Amazon Marketplace Metering SDK
+amazonka-ml-1.4.3                           Amazon Machine Learning SDK
+amazonka-opsworks-1.4.3                     Amazon OpsWorks SDK
+amazonka-rds-1.4.3                          Amazon Relational Database Service SDK
+amazonka-redshift-1.4.3                     Amazon Redshift SDK
+amazonka-route53-1.4.3                      Amazon Route 53 SDK
+amazonka-route53-domains-1.4.3              Amazon Route 53 Domains SDK
+amazonka-s3-1.4.3                           Amazon Simple Storage Service SDK
+amazonka-sdb-1.4.3                          Amazon SimpleDB SDK
+amazonka-ses-1.4.3                          Amazon Simple Email Service SDK
+amazonka-sns-1.4.3                          Amazon Simple Notification Service SDK
+amazonka-sqs-1.4.3                          Amazon Simple Queue Service SDK
+amazonka-ssm-1.4.3                          Amazon Simple Systems Manager (SSM) SDK
+amazonka-storagegateway-1.4.3               Amazon Storage Gateway SDK
+amazonka-sts-1.4.3                          Amazon Security Token Service SDK
+amazonka-support-1.4.3                      Amazon Support SDK
+amazonka-swf-1.4.3                          Amazon Simple Workflow Service SDK
+amazonka-test-1.4.3                         Common functionality for Amazonka library test-suites
+amazonka-waf-1.4.3                          Amazon WAF SDK
+amazonka-workspaces-1.4.3                   Amazon WorkSpaces SDK
+amqp-0.13.1                                 Client library for AMQP servers (currently only RabbitMQ)
+angel-0.6.2                                 Process management and supervision daemon
+annotated-wl-pprint-0.7.0                   The Wadler/Leijen Pretty Printer, with annotation support
+anonymous-sums-0.4.0.0                      Anonymous sum types
+ansi-terminal-0.6.2.3                       Simple ANSI terminal support, with Windows compatibility
+ansi-wl-pprint-0.6.7.3                      The Wadler/Leijen Pretty Printer for colored ANSI terminal output
+api-field-json-th-0.1.0.1                   option of aeson's deriveJSON
+apiary-2.0.2                                Simple and type safe web framework that generate web API documentation
+apiary-authenticate-1.4.0                   authenticate support for apiary web framework
+apiary-clientsession-1.4.0                  clientsession support for apiary web framework
+apiary-cookie-1.4.0                         Cookie support for apiary web framework
+apiary-eventsource-1.4.0                    eventsource support for apiary web framework
+apiary-logger-1.4.0                         fast-logger support for apiary web framework
+apiary-memcached-1.4.0                      memcached client for apiary web framework
+apiary-mongoDB-1.4.0                        mongoDB support for apiary web framework
+apiary-persistent-1.4.0                     persistent support for apiary web framework
+apiary-session-1.4.0                        session support for apiary web framework
+apiary-websockets-1.4.0                     websockets support for apiary web framework
+app-settings-0.2.0.9                        A library to manage application settings (INI file-like)
+appar-0.1.4                                 A simple applicative parser
+apply-refact-0.2.0.0                        Perform refactorings specified by the refact library
+approximate-0.2.2.3                         Approximate discrete values and numbers
+arbtt-0.9.0.11                              Automatic Rule-Based Time Tracker
+arithmoi-0.4.3.0                            Efficient basic number-theoretic functions. Primes, powers, integer logarithms
+array-0.5.1.0                               Mutable and immutable arrays
+arrow-list-0.7                              List arrows for Haskell
+ascii-progress-0.3.3.0                      A simple progress bar for the console
+asciidiagram-1.3.3                          Pretty rendering of Ascii diagram into svg or png
+asn1-encoding-0.9.4                         ASN1 data reader and writer in RAW, BER and DER forms
+asn1-parse-0.9.4                            Simple monadic parser for ASN1 stream types
+asn1-types-0.3.2                            ASN.1 types
+async-2.1.1                                 Run IO operations asynchronously and wait for their results
+async-dejafu-0.1.2.2                        Run MonadConc operations asynchronously and wait for their results
+atndapi-0.1.1.0                             An interface of ATND API
+atom-conduit-0.3.1.1                        Streaming parser/renderer for the Atom 1.0 standard (RFC 4287)
+atomic-primops-0.8.0.4                      A safe approach to CAS and other atomic ops in Haskell
+atomic-write-0.2.0.5                        Atomically write to a file
+attoparsec-0.13.1.0                         Fast combinator parsing for bytestrings and text
+attoparsec-enumerator-0.3.4                 Pass input from an enumerator to an Attoparsec parser
+attoparsec-expr-0.1.1.2                     Port of parsec's expression parser to attoparsec
+attoparsec-trans-0.1.1.0                    Interleaved effects for attoparsec parsers
+authenticate-1.3.3.2                        Authentication methods for Haskell web applications
+authenticate-oauth-1.5.1.2                  Library to authenticate with OAuth for Haskell web applications
+auto-0.4.3.0                                Denotative, locally stateful programming DSL & platform
+auto-update-0.1.4                           Efficiently run periodic, on-demand actions
+autoexporter-0.2.2                          Automatically re-export modules
+avers-0.0.15                                empty
+avers-api-0.0.5                             Types describing the core and extended Avers APIs
+avers-server-0.0.5                          Server implementation of the Avers API
+aws-0.13.2                                  Amazon Web Services (AWS) for Haskell
+b9-0.5.21                                   A tool and library for building virtual machine images
+bake-0.4                                    Continuous integration system
+bank-holidays-england-0.1.0.5               Calculation of bank holidays in England and Wales
+barrier-0.1.1                               Shield.io style badge generator
+base-4.8.2.0                                Basic libraries
+base-compat-0.9.1                           A compatibility layer for base
+base-noprelude-4.8.2.0                      "base" package sans "Prelude" module
+base-orphans-0.5.4                          Backwards-compatible orphan instances for base
+base-prelude-1.0.1.1                        The most complete prelude formed solely from the "base" package
+base-unicode-symbols-0.2.2.4                Unicode alternatives for common functions and operators
+base16-bytestring-0.1.1.6                   Fast base16 (hex) encoding and decoding for ByteStrings
+base32string-0.9.1                          Fast and safe representation of a Base-32 string
+base58string-0.10.0                         Fast and safe representation of a Base-58 string
+base64-bytestring-1.0.0.1                   Fast base64 encoding and decoding for ByteStrings
+base64-string-0.2                           Base64 implementation for String's
+basic-prelude-0.5.2                         An enhanced core prelude; a common foundation for alternate preludes
+bcrypt-0.0.8                                Haskell bindings to the bcrypt password hash
+benchpress-0.2.2.8                          Micro-benchmarking with detailed statistics
+bencode-0.6.0.0                             Parser and printer for bencoded data
+bento-0.1.0                                 🍱 Manage stateful components
+bifunctors-5.2                              Bifunctors
+bimap-0.3.2                                 Bidirectional mapping between two key types
+bimap-server-0.1.0.1                        Two-column database server
+bin-package-db-0.0.0.0                      Metadata not found
+binary-0.7.5.0                              Binary serialisation for Haskell values using lazy ByteStrings
+binary-bits-0.5                             Bit parsing/writing on top of binary
+binary-conduit-1.2.4.1                      data serialization/deserialization conduit library
+binary-list-1.1.1.2                         Lists of length a power of two
+binary-orphans-0.1.5.1                      Orphan instances for binary
+binary-parser-0.5.2                         A highly-efficient but limited parser API specialised for bytestrings
+binary-search-1.0.0.3                       Binary and exponential searches
+binary-shared-0.8.3                         Sharing for the binary package
+binary-tagged-0.1.4.2                       Tagged binary serialisation
+binary-typed-1.0                            Type-safe binary serialization
+bindings-DSL-1.0.23                         FFI domain specific language, on top of hsc2hs
+bindings-GLFW-3.1.2.2                       Low-level bindings to GLFW OpenGL library
+bindings-posix-1.2.6                        Low level bindings to posix
+bioace-0.0.1                                Library for reading ace assembly files
+bioalign-0.0.5                              Data structures and helper functions for calculating alignments
+biocore-0.3.1                               A bioinformatics library
+biofasta-0.0.3                              Library for reading fasta sequence files
+biofastq-0.1                                A library for reading FASTQ files
+biophd-0.0.4                                Library for reading phd sequence files
+biopsl-0.4                                  Library and executables for working with PSL files
+bitcoin-api-0.12.1                          Provides access to the RPC API of Bitcoin Core
+bitcoin-api-extra-0.9.1                     Higher level constructs on top of the bitcoin-api package
+bitcoin-block-0.13.1                        Utility functions for manipulating bitcoin blocks
+bitcoin-script-0.11.1                       Compilation, manipulation and decompilation of Bitcoin scripts
+bitcoin-tx-0.13.1                           Utility functions for manipulating bitcoin transactions
+bitcoin-types-0.9.2                         Provides consistent low-level types used commonly among Bitcoin implementations
+bits-0.4                                    Various bit twiddling and bitwise serialization primitives
+bitwise-0.1.1.1                             fast multi-dimensional unboxed bit packed Bool arrays
+blake2-0.1.0                                A library providing BLAKE2
+blank-canvas-0.6                            HTML5 Canvas Graphics Library
+BlastHTTP-1.2.1                             Libary to interface with the NCBI blast REST interface
+blastxml-0.3.2                              Library for reading Blast XML output
+blaze-bootstrap-0.1.0.1                     Blaze helper functions for bootstrap pages
+blaze-builder-0.4.0.2                       Efficient buffered output
+blaze-builder-enumerator-0.2.1.0            Enumeratees for the incremental conversion of builders to bytestrings
+blaze-html-0.8.1.3                          A blazingly fast HTML combinator library for Haskell
+blaze-markup-0.7.1.1                        A blazingly fast markup combinator library for Haskell
+blaze-svg-0.3.6                             SVG combinator library
+blaze-textual-0.2.1.0                       Fast rendering of common datatypes
+BlogLiterately-0.8.4.2                      A tool for posting Haskelly articles to blogs
+BlogLiterately-diagrams-0.2.0.5             Include images in blog posts with inline diagrams code
+bloodhound-0.11.0.0                         ElasticSearch client library for Haskell
+bloomfilter-2.0.1.0                         Pure and impure Bloom Filter implementations
+bmp-1.2.5.2                                 Read and write uncompressed BMP image files
+bool-extras-0.4.0                           A fold function for Bool
+Boolean-0.2.3                               Generalized booleans and numbers
+boomerang-1.4.5.2                           Library for invertible parsing and printing
+both-0.1.1.0                                Like Maybe, but with a different Monoid instance
+bound-1.0.7                                 Making de Bruijn Succ Less
+BoundedChan-1.0.3.0                         Implementation of bounded channels
+bower-json-0.8.1                            Read bower.json from Haskell
+boxes-0.1.4                                 2D text pretty-printing library
+brick-0.4.1                                 A declarative terminal user interface library
+broadcast-chan-0.1.1                        Broadcast channel type that avoids 0 reader space leaks
+bson-0.3.2.3                                BSON documents are JSON-like objects with a standard binary encoding
+bson-lens-0.1.1                             BSON lenses
+btrfs-0.1.2.2                               Bindings to the btrfs API
+buffer-builder-0.2.4.4                      Library for efficiently building up buffers, one piece at a time
+bumper-0.6.0.3                              Automatically bump package versions, also transitively
+bustle-0.5.4                                Draw sequence diagrams of D-Bus traffic
+byteable-0.1.1                              Type class for sequence of bytes
+bytedump-1.0                                Flexible byte dump helpers for human readers
+byteorder-1.0.4                             Exposes the native endianness or byte ordering of the system
+bytes-0.15.2                                Sharing code for serialization between binary and cereal
+byteset-0.1.1.0                             Set of bytes
+bytestring-0.10.6.0                         Fast, compact, strict and lazy byte strings with a list interface
+bytestring-builder-0.10.6.0.0               The new bytestring builder, packaged outside of GHC
+bytestring-conversion-0.3.1                 Type-classes to convert values to and from ByteString
+bytestring-handle-0.1.0.5                   ByteString-backed Handles
+bytestring-lexing-0.5.0.2                   Parse and produce literals efficiently from strict or lazy bytestrings
+bytestring-mmap-0.2.2                       mmap support for strict ByteStrings
+bytestring-progress-1.0.7                   A library for tracking the consumption of a lazy ByteString
+bytestring-read-0.3.1                       fast ByteString to number converting library
+bytestring-tree-builder-0.2.7.1             A very efficient ByteString builder implementation based on the binary tree
+bytestring-trie-0.2.4.1                     An efficient finite map from (byte)strings to values
+bzlib-0.5.0.5                               Compression and decompression in the bzip2 format
+bzlib-conduit-0.2.1.4                       Streaming compression/decompression via conduits
+c2hs-0.28.1                                 C->Haskell FFI tool that gives some cross-language type safety
+Cabal-1.22.8.0                              A framework for packaging Haskell software
+cabal-debian-4.32.5                         Create a Debianization for a Cabal package
+cabal-dependency-licenses-0.1.2.0           Compose a list of a project's transitive dependencies with their licenses
+cabal-file-th-0.2.4                         Template Haskell expressions for reading fields from a project's cabal file
+cabal-helper-0.6.3.1                        Simple interface to some of Cabal's configuration state used by ghc-mod
+Cabal-ide-backend-1.23.0.0                  A framework for packaging Haskell software
+cabal-install-1.22.9.0                      The command-line interface for Cabal and Hackage
+cabal-rpm-0.9.11                            RPM packaging tool for Haskell Cabal-based packages
+cabal-sort-0.0.5.3                          Topologically sort cabal packages
+cabal-src-0.3.0.2                           Alternative install procedure to avoid the diamond dependency issue
+cacophony-0.6.0                             A library implementing the Noise protocol
+cairo-0.13.1.1                              Binding to the Cairo library
+calculator-0.4.1.2                          A calculator repl, with variables, functions & Mathematica like dynamic plots
+call-stack-0.1.0                            Use GHC call-stacks in a backward compatible way
+carray-0.1.6.5                              A C-compatible array library
+cartel-0.16.0.0                             Specify Cabal files in Haskell
+case-insensitive-1.2.0.7                    Case insensitive string comparison
+cased-0.1.0.0                               Track string casing in its type
+cases-0.1.3.1                               A converter for spinal, snake and camel cases
+cassava-0.4.5.1                             A CSV parsing and encoding library
+cautious-file-1.0.2                         Ways to write a file cautiously, to reduce the chances of problems such as data loss due to crashes or power failures
+cayley-client-0.1.5.1                       A Haskell client for the Cayley graph database
+cereal-0.5.2.0                              A binary serialization library
+cereal-conduit-0.7.3                        Turn Data.Serialize Gets and Puts into Sources, Sinks, and Conduits
+cereal-vector-0.2.0.1                       Serialize instances for Data.Vector types
+cgi-3001.3.0.2                              A library for writing CGI programs
+ChannelT-0.0.0.2                            Generalized stream processors
+charset-0.3.7.1                             Fast unicode character sets based on complemented PATRICIA tries
+charsetdetect-ae-1.1.0.1                    Character set detection using Mozilla's Universal Character Set Detector
+Chart-1.6                                   A library for generating 2D Charts and Plots
+Chart-cairo-1.6                             Cairo backend for Charts
+Chart-diagrams-1.6                          Diagrams backend for Charts
+ChasingBottoms-1.3.1.2                      For testing partial and infinite values
+cheapskate-0.1.0.5                          Experimental markdown processor
+cheapskate-highlight-0.1.0.0                Code highlighting for cheapskate
+cheapskate-lucid-0.1.0.0                    Use cheapskate with Lucid
+check-email-1.0                             Confirm whether an email is valid and probably existant
+checkers-0.4.6                              Check properties on standard classes and data structures
+chell-0.4.0.1                               A simple and intuitive library for automated testing
+chell-quickcheck-0.2.5                      QuickCheck support for the Chell testing library
+chunked-data-0.2.0                          Typeclasses for dealing with various chunked data representations
+cipher-aes-0.2.11                           Fast AES cipher implementation with advanced mode of operations
+cipher-aes128-0.7.0.3                       AES and common modes using AES-NI when available
+cipher-blowfish-0.0.3                       Blowfish cipher
+cipher-camellia-0.0.2                       Camellia block cipher primitives
+cipher-des-0.0.6                            DES and 3DES primitives
+cipher-rc4-0.1.4                            Fast RC4 cipher implementation
+circle-packing-0.1.0.5                      Simple heuristic for packing discs of varying radii in a circle
+clash-ghc-0.6.24                            CAES Language for Synchronous Hardware
+clash-lib-0.6.21                            CAES Language for Synchronous Hardware - As a Library
+clash-prelude-0.10.14                       CAES Language for Synchronous Hardware - Prelude library
+clash-systemverilog-0.6.10                  CAES Language for Synchronous Hardware - SystemVerilog backend
+clash-verilog-0.6.10                        CAES Language for Synchronous Hardware - Verilog backend
+clash-vhdl-0.6.16                           CAES Language for Synchronous Hardware - VHDL backend
+classy-prelude-0.12.8                       A typeclass-based Prelude
+classy-prelude-conduit-0.12.8               classy-prelude together with conduit functions
+classy-prelude-yesod-0.12.8                 Provide a classy prelude including common Yesod functionality
+clay-0.10.1                                 CSS preprocessor as embedded Haskell
+clckwrks-0.23.19.2                          A secure, reliable content management system (CMS) and blogging platform
+clckwrks-cli-0.2.16                         a command-line interface for adminstrating some aspects of clckwrks
+clckwrks-plugin-media-0.6.16                media plugin for clckwrks
+clckwrks-plugin-page-0.4.3.5                support for CMS/Blogging in clckwrks
+clckwrks-theme-bootstrap-0.4.2              simple bootstrap based template for clckwrks
+clientsession-0.9.1.2                       Securely store session data in a client-side cookie
+clock-0.7.2                                 High-resolution clock functions: monotonic, realtime, cputime
+clumpiness-0.17.0.0                         Calculate the clumpiness of leaf properties in a tree
+ClustalParser-1.1.4                         Libary for parsing Clustal tools output
+clustering-0.2.1                            High performance clustering algorithms
+cmark-0.5.4                                 Fast, accurate CommonMark (Markdown) parser and renderer
+cmdargs-0.10.14                             Command line argument processing
+code-builder-0.1.3                          Simple system for generating code
+codex-0.4.0.10                              A ctags file generator for cabal project dependencies
+colour-2.3.3                                A model for human colour/color perception
+commutative-0.0.1.4                         Commutative binary operations
+comonad-4.2.7.2                             Comonads
+comonad-transformers-4.0                    This package has been merged into comonad 4.0
+comonads-fd-4.0                             This package has been merged into comonad 4.0
+compactmap-0.1.4.1                          A read-only memory-efficient key-value store
+compdata-0.10.1                             Compositional Data Types
+composition-1.0.2.1                         Combinators for unorthodox function composition
+composition-extra-2.0.0                     Combinators for unorthodox structure composition
+composition-tree-0.2.0.3                    Composition trees for arbitrary monoids
+compressed-3.10                             Compressed containers and reducers
+concatenative-1.0.1                         A library for postfix control flow
+conceit-0.4.0.0                             Concurrent actions that may fail with a value
+concurrent-extra-0.7.0.10                   Extra concurrency primitives
+concurrent-output-1.7.7                     Ungarble output from several threads or commands
+concurrent-supply-0.1.8                     A fast concurrent unique identifier supply with a pure API
+conduit-1.2.8                               Streaming data processing library
+conduit-combinators-1.0.8.3                 Commonly used conduit functions, for both chunked and unchunked data
+conduit-connection-0.1.0.3                  Conduit source and sink for Network.Connection
+conduit-extra-1.1.15                        Batteries included conduit: adapters for common libraries
+conduit-iconv-0.1.1.1                       Conduit for character encoding conversion
+conduit-parse-0.1.2.0                       Parsing framework based on conduit
+ConfigFile-1.1.4                            Configuration file reading & writing
+configuration-tools-0.2.15                  Tools for specifying and parsing configurations
+configurator-0.3.0.0                        Configuration management
+configurator-export-0.1.0.1                 Pretty printer and exporter for configurations from the "configurator" library
+connection-0.2.6                            Simple and easy network connections API
+constraints-0.8                             Constraint manipulation
+consul-haskell-0.3                          A consul client for Haskell
+containers-0.5.6.2                          Assorted concrete container types
+containers-unicode-symbols-0.3.1.1          Unicode alternatives for common functions and operators
+continued-fractions-0.9.1.1                 Continued fractions
+contravariant-1.4                           Contravariant functors
+contravariant-extras-0.3.3.1                Extras for the "contravariant" package
+control-bool-0.2.1                          Useful combinators for boolean expressions
+control-monad-free-0.6.1                    Free monads and monad transformers
+control-monad-loop-0.1                      Simple monad transformer for imperative-style loops
+control-monad-omega-0.3.1                   A breadth-first list monad
+converge-0.1.0.1                            Limit operations for converging sequences
+convertible-1.1.1.0                         Typeclasses and instances for converting between types
+cookie-0.4.2.1                              HTTP cookie parsing and rendering
+country-codes-0.1.3                         ISO 3166 country codes and i18n names
+courier-0.1.1.4                             A message-passing library for simplifying network applications
+cpphs-1.20.2                                A liberalised re-implementation of cpp, the C pre-processor
+cprng-aes-0.6.1                             Crypto Pseudo Random Number Generator using AES in counter mode
+cpu-0.1.2                                   Cpu information and properties helpers
+cql-3.0.7                                   Cassandra CQL binary protocol
+cql-io-0.15.2                               Cassandra CQL client
+crackNum-1.5                                Crack various integer, floating-point data formats
+criterion-1.1.1.0                           Robust, reliable performance measurement and analysis
+cron-0.4.2                                  Cron datatypes and Attoparsec parser
+crypto-api-0.13.2                           A generic interface for cryptographic operations
+crypto-api-tests-0.3                        A test framework and KATs for cryptographic operations
+crypto-cipher-tests-0.0.11                  Generic cryptography cipher tests
+crypto-cipher-types-0.0.9                   Generic cryptography cipher types
+crypto-numbers-0.2.7                        Cryptographic numbers: functions and algorithms
+crypto-pubkey-0.2.8                         Public Key cryptography
+crypto-pubkey-types-0.4.3                   Generic cryptography Public keys algorithm types
+crypto-random-0.0.9                         Simple cryptographic random related types
+crypto-random-api-0.2.0                     Simple random generators API for cryptography related code
+cryptocipher-0.6.2                          Symmetrical block and stream ciphers
+cryptohash-0.11.9                           collection of crypto hashes, fast, pure and practical
+cryptohash-conduit-0.1.1                    cryptohash conduit
+cryptohash-cryptoapi-0.1.4                  Crypto-api interfaces for cryptohash
+cryptol-2.3.0                               Cryptol: The Language of Cryptography
+cryptonite-0.19                             Cryptography Primitives sink
+cryptonite-conduit-0.1                      cryptonite conduit
+css-syntax-0.0.5                            This package implments a parser for the CSS syntax
+css-text-0.1.2.1                            CSS parser and renderer
+csv-0.1.2                                   CSV loader and dumper
+csv-conduit-0.6.6                           A flexible, fast, conduit-based CSV parser library for Haskell
+ctrie-0.1.1.0                               Non-blocking concurrent map
+cubicspline-0.1.2                           Natural cubic spline interpolation
+curl-1.3.8                                  Haskell binding to libcurl
+darcs-2.12.0                                a distributed, interactive, smart revision control system
+data-accessor-0.2.2.7                       Utilities for accessing and manipulating fields of records
+data-accessor-mtl-0.2.0.4                   Use Accessor to access state in mtl State monad class
+data-binary-ieee754-0.4.4                   Parser/Serialiser for IEEE-754 floating-point values
+data-default-0.5.3                          A class for types with a default value
+data-default-class-0.0.1                    A class for types with a default value
+data-default-instances-base-0.1.0           Default instances for types in base
+data-default-instances-containers-0.0.1     Default instances for types in containers
+data-default-instances-dlist-0.0.1          Default instances for types in dlist
+data-default-instances-old-locale-0.0.1     Default instances for types in old-locale
+data-hash-0.2.0.1                           Combinators for building fast hashing functions
+data-inttrie-0.1.2                          A lazy, infinite trie of integers
+data-lens-light-0.1.2.2                     Simple lenses, minimum dependencies
+data-memocombinators-0.5.1                  Combinators for building memo tables
+data-or-1.0.0.5                             A data type for non-exclusive disjunction
+data-ordlist-0.4.7.0                        Set and bag operations on ordered lists
+data-reify-0.6.1                            Reify a recursive data structure into an explicit graph
+dataurl-0.1.0.0                             Handle data-urls
+DAV-1.2                                     RFC 4918 WebDAV support
+dawg-ord-0.5.0.2                            Directed acyclic word graphs
+dbmigrations-1.1.1                          An implementation of relational database "migrations"
+dbus-0.10.12                                A client library for the D-Bus IPC system
+debian-3.89                                 Modules for working with the Debian package system
+debian-build-0.9.2.0                        Debian package build sequence tools
+Decimal-0.4.2                               Decimal numbers with variable precision
+declarative-0.2.3                           DIY Markov Chains
+deepseq-1.4.1.1                             Deep evaluation of data structures
+deepseq-generics-0.1.1.2                    GHC.Generics-based Control.DeepSeq.rnf implementation
+dejafu-0.3.2.1                              Systematic testing for Haskell concurrency
+dependent-map-0.2.3.0                       Dependent finite maps (partial dependent products)
+dependent-sum-0.3.2.2                       Dependent sum type
+dependent-sum-template-0.0.0.5              Template Haskell code to generate instances of classes in dependent-sum package
+derive-2.5.26                               A program and library to derive instances for data types
+deriving-compat-0.2                         Backports of GHC deriving extensions
+descriptive-0.9.4                           Self-describing consumers/parsers; forms, cmd-line args, JSON, etc
+diagrams-1.3.0.1                            Embedded domain-specific language for declarative vector graphics
+diagrams-builder-0.7.2.4                    hint-based build service for the diagrams graphics EDSL
+diagrams-cairo-1.3.1.1                      Cairo backend for diagrams drawing EDSL
+diagrams-canvas-1.3.0.6                     HTML5 canvas backend for diagrams drawing EDSL
+diagrams-contrib-1.3.0.12                   Collection of user contributions to diagrams EDSL
+diagrams-core-1.3.0.8                       Core libraries for diagrams EDSL
+diagrams-gtk-1.3.0.2                        Backend for rendering diagrams directly to GTK windows
+diagrams-haddock-0.3.0.10                   Preprocessor for embedding diagrams in Haddock documentation
+diagrams-html5-1.3.0.7                      HTML5 canvas backend for diagrams drawing EDSL
+diagrams-lib-1.3.1.4                        Embedded domain-specific language for declarative graphics
+diagrams-postscript-1.3.0.7                 Postscript backend for diagrams drawing EDSL
+diagrams-rasterific-1.3.1.8                 Rasterific backend for diagrams
+diagrams-solve-0.1.0.1                      Pure Haskell solver routines used by diagrams
+diagrams-svg-1.3.1.10                       SVG backend for diagrams drawing EDSL
+dice-0.1                                    Simplistic D&D style dice-rolling system
+Diff-0.3.2                                  O(ND) diff algorithm in haskell
+diff3-0.2.0.3                               Perform a 3-way difference of documents
+digest-0.0.1.2                              Various cryptographic hashes for bytestrings; CRC32 and Adler32 for now
+digestive-bootstrap-0.1.0.1                 Speed up form designing using digestive functors and bootstrap
+digestive-functors-0.8.0.1                  A practical formlet library
+digestive-functors-aeson-1.1.20             Run digestive-functors forms against JSON
+digestive-functors-blaze-0.6.1.0            Blaze frontend for the digestive-functors library
+digestive-functors-lucid-0.0.0.4            Lucid frontend for the digestive-functors library
+digits-0.2                                  Converts integers to lists of digits and back
+dimensional-1.0.1.3                         Statically checked physical dimensions, using Type Families and Data Kinds
+direct-sqlite-2.3.19                        Low-level binding to SQLite3. Includes UTF8 and BLOB support
+directory-1.2.2.0                           Platform-agnostic library for filesystem operations
+directory-tree-0.12.1                       A simple directory-like tree datatype, with useful IO functions
+discount-0.1.1                              Haskell bindings to the discount Markdown library
+disk-free-space-0.1.0.1                     Retrieve information about disk space usage
+distributed-closure-0.3.3.0                 Serializable closures for distributed programming
+distributed-process-0.6.6                   Cloud Haskell: Erlang-style concurrency in Haskell
+distributed-process-async-0.2.3             Cloud Haskell Async API
+distributed-process-client-server-0.1.3.2   The Cloud Haskell Application Platform
+distributed-process-execution-0.1.2.2       Execution Framework for The Cloud Haskell Application Platform
+distributed-process-extras-0.2.1.2          Cloud Haskell Extras
+distributed-process-registry-0.1.0.2        Cloud Haskell Extended Process Registry
+distributed-process-simplelocalnet-0.2.3.3  Simple zero-configuration backend for Cloud Haskell
+distributed-process-supervisor-0.1.3.2      Supervisors for The Cloud Haskell Application Platform
+distributed-process-task-0.1.2.2            Task Framework for The Cloud Haskell Application Platform
+distributed-process-tests-0.4.7             Tests and test support tools for distributed-process
+distributed-static-0.3.5.0                  Compositional, type-safe, polymorphic static values and closures
+distributive-0.5.0.2                        Distributive functors -- Dual to Traversable
+diversity-0.8.0.1                           Quantify the diversity of a population
+dixi-0.6.9.2                                A wiki implemented with a firm theoretical foundation
+djinn-ghc-0.0.2.3                           Generate Haskell code from a type. Bridge from Djinn to GHC API
+djinn-lib-0.0.1.2                           Generate Haskell code from a type. Library extracted from djinn package
+dlist-0.7.1.2                               Difference lists
+dlist-instances-0.1.1.1                     Difference lists instances
+dns-2.0.10                                  DNS library in Haskell
+dockerfile-0.1.0.1                          A simple DSL for describing and generating Dockerfile containers in Haskell
+docopt-0.7.0.5                              A command-line interface parser that will make you smile
+doctest-0.11.0                              Test interactive Haskell examples
+doctest-discover-0.1.0.7                    Easy way to run doctests via cabal
+dotenv-0.3.0.1                              Loads environment variables from dotenv files
+dotnet-timespan-0.0.1.0                     .NET TimeSpan
+double-conversion-2.0.2.0                   Fast conversion between double precision floating point and text
+download-0.3.2.5                            High-level file download based on URLs
+dpor-0.1.0.1                                A generic implementation of dynamic partial-order reduction (DPOR) for testing arbitrary models of concurrency
+drawille-0.1.2.0                            A port of asciimoo's drawille to haskell
+DRBG-0.5.5                                  Deterministic random bit generator (aka RNG, PRNG) based HMACs, Hashes, and Ciphers
+drifter-0.2.2                               Simple schema management for arbitrary databases
+drifter-postgresql-0.0.2                    PostgreSQL support for the drifter schema migration tool
+dual-tree-0.2.0.9                           Rose trees with cached and accumulating monoidal annotations
+dynamic-state-0.2.2.0                       Optionally serializable dynamic state keyed by type
+dyre-0.8.12                                 Dynamic reconfiguration in Haskell
+Earley-0.11.0.1                             Parsing all context-free grammars using Earley's algorithm
+easy-file-0.2.1                             Cross-platform File handling
+Ebnf2ps-1.0.15                              Peter's Syntax Diagram Drawing Tool
+ede-0.2.8.4                                 Templating language with similar syntax and features to Liquid or Jinja2
+EdisonAPI-1.3                               A library of efficient, purely-functional data structures (API)
+EdisonCore-1.3.1.1                          A library of efficent, purely-functional data structures (Core Implementations)
+edit-distance-0.2.2.1                       Levenshtein and restricted Damerau-Levenshtein edit distances
+edit-distance-vector-1.0.0.4                Calculate edit distances and edit scripts between vectors
+editor-open-0.6.0.0                         Open the user's $VISUAL or $EDITOR for text input
+effect-handlers-0.1.0.8                     A library for writing extensible algebraic effects and handlers. Similar to extensible-effects but with deep handlers
+either-4.4.1.1                              An either monad transformer
+either-unwrap-1.1                           Functions for probing and unwrapping values inside of Either
+ekg-0.4.0.11                                Remote monitoring of processes
+ekg-core-0.1.1.1                            Tracking of system metrics
+ekg-json-0.1.0.3                            JSON encoding of ekg metrics
+ekg-statsd-0.2.1.0                          Push metrics to statsd
+elm-bridge-0.3.0.2                          Derive Elm types from Haskell types
+elm-core-sources-1.0.0                      Source files for the Elm runtime and standard libraries
+email-validate-2.2.0                        Validating an email address string against RFC 5322
+enclosed-exceptions-1.0.2                   Catching all exceptions from within an enclosed computation
+engine-io-1.2.13                            A Haskell implementation of Engine.IO
+engine-io-wai-1.0.5
+engine-io-yesod-1.0.4
+EntrezHTTP-1.0.3                            Libary to interface with the NCBI Entrez REST service
+entropy-0.3.7                               A platform independent entropy source
+enumerator-0.4.20                           Reliable, high-performance processing with left-fold enumerators
+envelope-0.1.0.0                            Defines generic 'Envelope' type to wrap reponses from a JSON API
+envy-1.1.0.0                                An environmentally friendly way to deal with environment variables
+eq-4.0.4                                    Leibnizian equality
+equivalence-0.3.1                           Maintaining an equivalence relation implemented as union-find using STT
+erf-2.0.0.0                                 The error function, erf, and related functions
+errors-2.1.3                                Simplified error-handling
+esqueleto-2.4.3                             Type-safe EDSL for SQL queries on persistent backends
+etcd-1.0.5                                  Client for etcd, a highly-available key value store
+ether-0.4.0.2                               Monad transformers and classes
+event-0.1.4                                 Monoidal, monadic and first-class events
+eventstore-0.12.0.0                         EventStore TCP Client
+exact-combinatorics-0.2.0.8                 Efficient exact computation of combinatoric functions
+exact-pi-0.4.1.2                            Exact rational multiples of pi (and integer powers of pi)
+exact-real-0.12.1                           Exact real arithmetic
+exception-mtl-0.4.0.1                       Exception monad transformer instances for mtl classes
+exception-transformers-0.4.0.5              Type classes and monads for unchecked extensible exceptions
+exceptional-0.3.0.0                         Essentially the Maybe type with error messages
+exceptions-0.8.3                            Extensible optionally-pure exceptions
+executable-hash-0.2.0.2                     Provides the SHA1 hash of the program executable
+executable-path-0.0.3                       Finding out the full path of the executable
+exhaustive-1.1.3                            Compile time checks that a computation considers producing data through all possible constructors
+expiring-cache-map-0.0.6.1                  General purpose simple caching
+explicit-exception-0.1.8                    Exceptions which are explicit in the type signature
+extensible-effects-1.11.0.4                 An Alternative to Monad Transformers
+extensible-exceptions-0.1.1.4               Extensible exceptions
+extra-1.4.10                                Extra functions I use
+extract-dependencies-0.2.0.1                Given a hackage package outputs the list of its dependencies
+fail-4.9.0.0                                Forward-compatible MonadFail class
+farmhash-0.1.0.5                            Fast hash functions
+fast-builder-0.0.0.6                        Fast ByteString Builder
+fast-logger-2.4.7                           A fast logging system
+fasta-0.10.4.0                              A simple, mindless parser for fasta files
+fay-0.23.1.12                               A compiler for Fay, a Haskell subset that compiles to JavaScript
+fay-base-0.20.0.1                           The base package for Fay
+fay-builder-0.2.0.5                         Compile Fay code on cabal install, and ad-hoc recompile during development
+fay-dom-0.5.0.1                             DOM FFI wrapper library for Fay
+fay-jquery-0.6.1.0                          jQuery bindings for Fay
+fay-text-0.3.2.2                            Fay Text type represented as JavaScript strings
+fay-uri-0.2.0.0                             Persistent FFI bindings for using jsUri in Fay
+fb-1.0.13                                   Bindings to Facebook's API
+fb-persistent-0.3.6                         Provides Persistent instances to Facebook types
+fclabels-2.0.3.2                            First class accessor labels implemented as lenses
+fdo-notify-0.3.1                            Desktop Notifications client
+feature-flags-0.1.0.1                       A simple library for dynamically enabling and disabling functionality
+feed-0.3.11.1                               Interfacing with RSS (v 0.9x, 2.x, 1.0) + Atom feeds
+FenwickTree-0.1.2.1                         Data structure for fast query and update of cumulative sums
+fft-0.1.8.4                                 Bindings to the FFTW library
+fgl-5.5.3.0                                 Martin Erwig's Functional Graph Library
+fgl-arbitrary-0.2.0.2                       QuickCheck support for fgl
+file-embed-0.0.10                           Use Template Haskell to embed file contents directly
+file-location-0.4.9                         common functions that show file location information
+file-modules-0.1.2.4                        Takes a Haskell source-code file and outputs its modules
+filecache-0.2.9                             A Linux-only cache system associating values to files
+filelock-0.1.0.1                            Portable interface to file locking (flock / LockFileEx)
+filemanip-0.3.6.3                           Expressive file and directory manipulation for Haskell
+filepath-1.4.0.0                            Library for manipulating FilePaths in a cross platform way
+find-clumpiness-0.2.0.1                     Find the clumpiness of labels in a tree
+FindBin-0.0.5                               Locate directory of original program
+fingertree-0.1.1.0                          Generic finger-tree structure, with example instances
+fingertree-psqueue-0.3                      Implementation of priority search queues as finger trees
+fixed-0.2.1.1                               Signed 15.16 precision fixed point arithmetic
+fixed-list-0.1.6                            A fixed length list type
+fixed-vector-0.8.1.0                        Generic vectors with statically known size
+fixed-vector-hetero-0.3.1.1                 Generic heterogeneous vectors
+flat-mcmc-1.0.1                             Painless general-purpose sampling
+flexible-defaults-0.0.1.2                   Generate default function implementations for complex type classes
+flock-0.3.1.8                               Wrapper for flock(2)
+flow-1.0.7                                  Write more understandable Haskell
+fmlist-0.9                                  FoldMap lists
+fn-0.3.0.1                                  A functional web framework
+fn-extra-0.3.0.1                            Extras for Fn, a functional web framework
+focus-0.1.5                                 A general abstraction for manipulating elements of container data structures
+fold-debounce-0.2.0.4                       Fold multiple events that happen in a given period of time
+fold-debounce-conduit-0.1.0.4               Regulate input traffic from conduit Source with Control.FoldDebounce
+foldl-1.2.1                                 Composable, streaming, and efficient left folds
+FontyFruity-0.5.3.2                         A true type file format loader
+force-layout-0.4.0.6                        Simple force-directed layout
+forecast-io-0.2.0.0                         A Haskell library for working with forecast.io data
+foreign-store-0.2                           Store a stable pointer in a foreign context to be retrieved later
+formatting-6.2.4                            Combinator-based type-safe formatting (like printf() or FORMAT)
+Frames-0.1.8                                Data frames For working with tabular data files
+free-4.12.4                                 Monads for free
+free-vl-0.1.4                               van Laarhoven encoded Free Monad with Extensible Effects
+freenect-1.2.1                              Interface to the Kinect device
+frisby-0.2                                  Linear time composable parser for PEG grammars
+frontmatter-0.1.0.2                         Parses frontmatter as used in Jekyll markdown files
+fsnotify-0.2.1                              Cross platform library for file change notification
+funcmp-1.8                                  Functional MetaPost
+fuzzcheck-0.1.1                             A simple checker for stress testing monadic code
+gamma-0.9.0.2                               Gamma function and related functions
+gd-3000.7.3                                 A Haskell binding to a subset of the GD graphics library
+Genbank-1.0.3                               Libary for processing the NCBI genbank format
+generic-aeson-0.2.0.8                       Derivation of Aeson instances using GHC generics
+generic-deriving-1.10.5                     Generic programming library for generalised deriving
+generic-trie-0.3.0.2                        A map, where the keys may be complex structured data
+generic-xmlpickler-0.1.0.5                  Generic generation of HXT XmlPickler instances using GHC Generics
+GenericPretty-1.2.1                         A generic, derivable, haskell pretty printer
+generics-eot-0.2.1.1                        A library for generic programming that aims to be easy to understand
+generics-sop-0.2.3.0                        Generic Programming using True Sums of Products
+geniplate-mirror-0.7.4                      Use Template Haskell to generate Uniplate-like functions
+genvalidity-0.2.0.4                         Testing utilities for the validity library
+genvalidity-hspec-0.2.0.5                   Standard spec's for GenValidity instances
+getopt-generics-0.13                        Create command line interfaces with ease
+ghc-7.10.3                                  Metadata not found
+ghc-events-0.4.4.0                          Library and tool for parsing .eventlog files from GHC
+ghc-exactprint-0.5.2.1                      ExactPrint for GHC
+ghc-heap-view-0.5.7                         Extract the heap representation of Haskell values and thunks
+ghc-imported-from-0.3.0.6                   Find the Haddock documentation for a symbol
+ghc-mod-5.5.0.0                             Happy Haskell Programming
+ghc-mtl-1.2.1.0                             An mtl compatible version of the Ghc-Api monads and monad-transformers
+ghc-parser-0.1.8.0                          Haskell source parser from GHC
+ghc-paths-0.1.0.9                           Knowledge of GHC's installation directories
+ghc-prim-0.4.0.0                            GHC primitives
+ghc-session-0.1.2.1                         Simplified GHC API
+ghc-syb-utils-0.2.3                         Scrap Your Boilerplate utilities for the GHC API
+ghc-tcplugins-extra-0.2                     Utilities for writing GHC type-checker plugins
+ghc-typelits-extra-0.1.3                    Additional type-level operations on GHC.TypeLits.Nat
+ghc-typelits-natnormalise-0.4.6             GHC typechecker plugin for types of kind GHC.TypeLits.Nat
+ghcid-0.6.6                                 GHCi based bare bones IDE
+ghcjs-codemirror-0.0.0.1                    Installs CodeMirror JavaScript files
+ghcjs-dom-0.2.4.0                           DOM library that supports both GHCJS and GHC
+gi-atk-2.0.3                                Atk bindings
+gi-cairo-1.0.3                              Cairo bindings
+gi-gdk-3.0.3                                Gdk bindings
+gi-gdkpixbuf-2.0.3                          GdkPixbuf bindings
+gi-gio-2.0.3                                Gio bindings
+gi-glib-2.0.3                               GLib bindings
+gi-gobject-2.0.3                            GObject bindings
+gi-gtk-3.0.3                                Gtk bindings
+gi-pango-1.0.3                              Pango bindings
+gio-0.13.1.1                                Binding to GIO
+gipeda-0.2.0.1                              Git Performance Dashboard
+giphy-api-0.4.0.0                           Giphy HTTP API wrapper and CLI search tool
+git-annex-6.20160511                        manage files with git, without checking their contents into git
+git-fmt-0.4.1.0                             Custom git command for formatting code
+github-0.14.1                               Access to the GitHub API, v3
+github-backup-1.20160522                    backs up everything github knows about a repository, to the repository
+github-release-0.1.9                        Upload files to GitHub releases
+github-types-0.2.1                          Type definitions for objects used by the GitHub v3 API
+github-webhook-handler-0.0.8                GitHub WebHook Handler
+github-webhook-handler-snap-0.0.6           GitHub WebHook Handler implementation for Snap
+gitlib-3.1.1                                API library for working with Git repositories
+gitlib-libgit2-3.1.1                        Libgit2 backend for gitlib
+gitlib-test-3.1.0.3                         Test library for confirming gitlib backend compliance
+gitrev-1.2.0                                Compile git revision info into Haskell projects
+gitson-0.5.1                                A document store library for Git + JSON
+gl-0.7.8.1                                  Complete OpenGL raw bindings
+GLFW-b-1.4.8.1                              Bindings to GLFW OpenGL library
+glib-0.13.2.2                               Binding to the GLIB library for Gtk2Hs
+Glob-0.7.13                                 Globbing library
+GLURaw-2.0.0.2                              A raw binding for the OpenGL graphics system
+GLUT-2.7.0.10                               A binding for the OpenGL Utility Toolkit
+gnuidn-0.2.2                                Bindings for GNU IDN
+gnutls-0.2                                  Bindings for GNU libgnutls
+google-cloud-0.0.4                          Client for the Google Cloud APIs
+GPipe-2.1.7                                 Typesafe functional GPU graphics programming
+GPipe-GLFW-1.2.3                            GLFW OpenGL context creation for GPipe
+gpolyline-0.1.0.1                           Pure module for encoding/decoding Google Polyline
+graph-core-0.3.0.0                          Fast, memory efficient and persistent graph implementation
+graph-wrapper-0.2.5.1                       A wrapper around the standard Data.Graph with a less awkward interface
+graphs-0.7                                  A simple monadic graph library
+GraphSCC-1.0.4                              Tarjan's algorithm for computing the strongly connected components of a graph
+graphviz-2999.18.1.2                        Bindings to Graphviz for graph visualisation
+gravatar-0.8.0                              Generate Gravatar image URLs
+graylog-0.1.0.1                             Support for graylog output
+groom-0.1.2                                 Pretty printing for well-behaved Show instances
+groundhog-0.7.0.3                           Type-safe datatype-database mapping library
+groundhog-mysql-0.7.0.1                     MySQL backend for the groundhog library
+groundhog-postgresql-0.7.0.2                PostgreSQL backend for the groundhog library
+groundhog-sqlite-0.7.0.1                    Sqlite3 backend for the groundhog library
+groundhog-th-0.7.0.1                        Type-safe datatype-database mapping library
+grouped-list-0.2.1.2                        Grouped lists. Equal consecutive elements are grouped
+groupoids-4.0                               This package has been absorbed into semigroupoids 4.0
+groups-0.4.0.0                              Haskell 98 groups
+growler-0.6.0                               A revised version of the scotty library that attempts to be simpler and more performant
+gsasl-0.3.6                                 Bindings for GNU libgsasl
+gtk-0.14.2                                  Binding to the Gtk+ graphical user interface library
+gtk2hs-buildtools-0.13.0.5                  Tools to build the Gtk2Hs suite of User Interface libraries
+gtk3-0.14.2                                 Binding to the Gtk+ 3 graphical user interface library
+gtksourceview3-0.13.2.1                     Binding to the GtkSourceView library
+H-0.8.0.0                                   The Haskell/R mixed programming environment
+hackage-db-1.22                             access Hackage's package database via Data.Map
+hackage-mirror-0.1.1.1                      Simple mirroring utility for Hackage
+hackage-whatsnew-0.1.0.1                    Check for differences between working directory and hackage
+hackmanager-0.1.0.0                         Generate useful files for Haskell projects
+haddock-api-2.16.1                          A documentation-generation tool for Haskell libraries
+haddock-library-1.2.1                       Library exposing some functionality of Haddock
+haddocset-0.4.2                             Generate docset of Dash by Haddock haskell documentation tool
+hakyll-4.8.3.2                              A static website compiler library
+hakyll-sass-0.2.2                           Hakyll SASS compiler over hsass
+half-0.2.2.3                                Half-precision floating-point
+hamlet-1.2.0                                Haml-like template files that are compile-time checked (deprecated)
+HandsomeSoup-0.4.2                          Work with HTML more easily in HXT
+handwriting-0.1.0.3                         API Client for the handwriting.io API
+hapistrano-0.2.1.2                          A deployment library for Haskell applications
+happstack-authenticate-2.3.4.6              Happstack Authentication Library
+happstack-clientsession-7.3.1               client-side session data
+happstack-hsp-7.3.7.1                       Support for using HSP templates in Happstack
+happstack-jmacro-7.0.11                     Support for using JMacro with Happstack
+happstack-server-7.4.6.2                    Web related tools and services
+happstack-server-tls-7.1.6.2                extend happstack-server with https:// support (TLS/SSL)
+happy-1.19.5                                Happy is a parser generator for Haskell
+HaRe-0.8.2.3                                the Haskell Refactorer
+harp-0.4.2                                  HaRP allows pattern-matching with regular expressions
+hashable-1.2.4.0                            A class for types that can be converted to a hash value
+hashable-extras-0.2.3                       Higher-rank Hashable
+hashable-time-0.2                           Hashable instances for Data.Time
+hashtables-1.2.1.0                          Mutable hash tables in the ST monad
+haskeline-0.7.2.3                           A command-line interface for user input, written in Haskell
+haskell-gi-0.17.4                           Generate Haskell bindings for GObject Introspection capable libraries
+haskell-gi-base-0.17                        Foundation for libraries generated by haskell-gi
+haskell-lexer-1.0.1                         A fully compliant Haskell 98 lexer
+haskell-neo4j-client-0.3.2.4                A Haskell neo4j client
+haskell-spacegoo-0.2.0.1                    Client API for Rocket Scissor Spacegoo
+haskell-src-1.0.2.0                         Support for manipulating Haskell source code
+haskell-src-exts-1.17.1                     Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer
+haskell-src-meta-0.6.0.14                   Parse source to template-haskell abstract syntax
+HaskellNet-0.5.1                            Client support for POP3, SMTP, and IMAP
+HaskellNet-SSL-0.3.3.0                      Helpers to connect to SSL/TLS mail servers with HaskellNet
+haskintex-0.6.0.1                           Haskell Evaluation inside of LaTeX code
+hasql-0.19.15.2                             An efficient PostgreSQL driver and a flexible mapping API
+hastache-0.6.1                              Haskell implementation of Mustache templates
+hasty-hamiltonian-1.1.4                     Speedy traversal through parameter space
+HaTeX-3.17.0.2                              The Haskell LaTeX library
+haxl-0.3.1.0                                A Haskell library for efficient, concurrent, and concise data access
+haxl-amazonka-0.1.0.0                       Haxl data source for accessing AWS services through amazonka
+HaXml-1.25.3                                Utilities for manipulating XML documents
+haxr-3000.11.2                              XML-RPC client and server library
+hbayes-0.5.2                                Bayesian Networks
+hbeanstalk-0.2.4                            Client for the beanstalkd workqueue service
+Hclip-3.0.0.4                               A small cross-platform library for reading and modifying the system clipboard
+HCodecs-0.5                                 A library to read, write and manipulate MIDI, WAVE, and SoundFont2 files
+hdaemonize-0.5.0.2                          Library to handle the details of writing daemons for UNIX
+HDBC-2.4.0.1                                Haskell Database Connectivity
+HDBC-postgresql-2.3.2.4                     PostgreSQL driver for HDBC
+HDBC-session-0.1.1.0                        Bracketed connection for HDBC
+HDBC-sqlite3-2.3.3.1                        Sqlite v3 driver for HDBC
+hdevtools-0.1.4.1                           Persistent GHC powered background server for FAST haskell development tools
+hdocs-0.5.0.1                               Haskell docs tool
+heap-1.0.3                                  Heaps in Haskell
+heaps-0.3.3                                 Asymptotically optimal Brodal/Okasaki heaps
+hebrew-time-0.1.1                           Hebrew dates and prayer times
+hedis-0.6.10                                Client library for the Redis datastore: supports full command set, pipelining
+heist-0.14.1.4                              An Haskell template system supporting both HTML5 and XML
+here-1.2.9                                  Here docs & interpolated strings via quasiquotation
+heredoc-0.2.0.0                             multi-line string / here document using QuasiQuotes
+hex-0.1.2                                   Convert strings into hexadecimal and back
+hexpat-0.20.9                               XML parser/formatter based on expat
+hexstring-0.11.1                            Fast and safe representation of a hex string
+hflags-0.4.2                                Command line flag parser, very similar to Google's gflags
+hformat-0.1.0.1                             Simple Haskell formatting
+hfsevents-0.1.6                             File/folder watching for OS X
+hgettext-0.1.30                             Bindings to libintl.h (gettext, bindtextdomain)
+hid-0.2.2                                   Interface to hidapi library
+hidapi-0.1.4                                Haskell bindings to HIDAPI
+hierarchical-clustering-0.4.6               Fast algorithms for single, average/UPGMA and complete linkage clustering
+highjson-0.2.0.2                            Very fast JSON serialisation and parsing library
+highlighting-kate-0.6.3                     Syntax highlighting
+hindent-4.6.4                               Extensible Haskell pretty printer
+hinotify-0.3.9                              Haskell binding to inotify
+hint-0.5.2                                  Runtime Haskell interpreter (GHC API wrapper)
+histogram-fill-0.8.4.1                      Library for histograms creation
+hit-0.6.3                                   Git operations in haskell
+hjpath-3.0.1                                XPath-like syntax for querying JSON
+hjsmin-0.2.0.2                              Haskell implementation of a javascript minifier
+hjson-1.3.2                                 JSON parsing library
+hledger-0.27                                Command-line interface for the hledger accounting tool
+hledger-interest-1.4.4                      computes interest for a given account
+hledger-lib-0.27                            Core data types, parsers and functionality for the hledger accounting tools
+hledger-ui-0.27.4                           Curses-style user interface for the hledger accounting tool
+hledger-web-0.27                            Web interface for the hledger accounting tool
+hlibgit2-0.18.0.15                          Low-level bindings to libgit2
+hlibsass-0.1.5.0                            Low-level bindings to Libsass
+hlint-1.9.35                                Source code suggestions
+HList-0.4.2.0                               Heterogeneous lists
+hmatrix-0.17.0.2                            Numeric Linear Algebra
+hmatrix-gsl-0.17.0.0                        Numerical computation
+hmatrix-gsl-stats-0.4.1.4                   GSL Statistics interface
+hmt-0.15                                    Haskell Music Theory
+hoauth2-0.5.4.0                             Haskell OAuth2 authentication client
+holy-project-0.2.0.1                        Start your Haskell project with cabal, git and tests
+hoogle-4.2.43                               Haskell API Search
+hoopl-3.10.0.2                              A library to support dataflow analysis and optimization
+hOpenPGP-2.4.4                              native Haskell implementation of OpenPGP (RFC4880)
+hopenpgp-tools-0.18                         hOpenPGP-based command-line tools
+hopenssl-1.7                                FFI bindings to OpenSSL's EVP digest interface
+hosc-0.15                                   Haskell Open Sound Control
+hostname-1.0                                A very simple package providing a cross-platform means of determining the hostname
+hostname-validate-1.0.0                     Validate hostnames e.g. localhost or foo.co.uk
+hourglass-0.2.10                            simple performant time related library
+hpack-0.14.1                                An alternative format for Haskell packages
+hpc-0.6.0.2                                 Code Coverage Library for Haskell
+hpc-coveralls-1.0.6                         Coveralls.io support for Haskell
+hPDB-1.2.0.9                                Protein Databank file format library
+HPDF-1.4.10                                 Generation of PDF documents
+hprotoc-2.2.0                               Parse Google Protocol Buffer specifications
+hs-bibutils-5.5                             Haskell bindings to bibutils, the bibliography conversion utilities
+hs-GeoIP-0.3                                Haskell bindings to the MaxMind GeoIPCity database via the C library
+hsass-0.4.0                                 Integrating Sass into Haskell applications
+hsb2hs-0.3.1                                Preprocesses a file, adding blobs from files as string literals
+hscolour-1.24.1                             Colourise Haskell code
+hsdev-0.2.0.0                               Haskell development library
+hse-cpp-0.1                                 Preprocess+parse haskell code
+hsebaysdk-0.4.0.0                           Haskell eBay SDK
+hsemail-1.7.7                               Internet Message Parsers
+HSet-0.0.0                                  Faux heterogeneous sets
+hsexif-0.6.0.10                             EXIF handling library in pure Haskell
+hsignal-0.2.7.4                             Signal processing and EEG data analysis
+hslogger-1.2.10                             Versatile logging framework
+hslua-0.4.1                                 A Lua language interpreter embedding in Haskell
+hsndfile-0.8.0                              Haskell bindings for libsndfile
+hsndfile-vector-0.5.2                       Haskell bindings for libsndfile (Data.Vector interface)
+HsOpenSSL-0.11.3.2                          Partial OpenSSL binding for Haskell
+hsp-0.10.0                                  Haskell Server Pages is a library for writing dynamic server-side web pages
+hspec-2.2.4                                 A Testing Framework for Haskell
+hspec-attoparsec-0.1.0.2                    Utility functions for testing your attoparsec parsers with hspec
+hspec-contrib-0.3.0                         Contributed functionality for Hspec
+hspec-core-2.2.4                            A Testing Framework for Haskell
+hspec-discover-2.2.4                        Automatically discover and run Hspec tests
+hspec-expectations-0.7.2                    Catchy combinators for HUnit
+hspec-expectations-pretty-diff-0.7.2.4      Catchy combinators for HUnit
+hspec-jenkins-0.1.1                         Jenkins-friendly XML formatter for Hspec
+hspec-megaparsec-0.1.1                      Utility functions for testing Megaparsec parsers with Hspec
+hspec-meta-2.2.1                            A version of Hspec which is used to test Hspec itself
+hspec-setup-0.1.1.1                         Add an hspec test-suite in one command
+hspec-smallcheck-0.4.1                      SmallCheck support for the Hspec testing framework
+hspec-snap-0.4.0.1                          A library for testing with Hspec and the Snap Web Framework
+hspec-wai-0.6.6                             Experimental Hspec support for testing WAI applications
+hspec-wai-json-0.6.1                        Testing JSON APIs with hspec-wai
+hspec-webdriver-1.1.0                       Write end2end web application tests using webdriver and hspec
+HsSyck-0.53                                 Fast, lightweight YAML loader and dumper
+hstatistics-0.2.5.4                         Statistics
+hstatsd-0.1                                 Quick and dirty statsd interface
+HStringTemplate-0.8.5                       StringTemplate implementation in Haskell
+hsx-jmacro-7.3.8                            hsp+jmacro support
+hsx2hs-0.13.5                               HSX (Haskell Source with XML) allows literal XML syntax in Haskell source code
+hsyslog-2.0                                 FFI interface to syslog(3) from POSIX.1-2001
+htaglib-1.0.4                               Bindings to TagLib, audio meta-data library
+HTF-0.13.1.0                                The Haskell Test Framework
+html-1.0.1.2                                HTML combinator library
+html-conduit-1.2.1.1                        Parse HTML documents using xml-conduit datatypes
+htoml-1.0.0.3                               Parser for TOML files
+HTTP-4000.3.3                               A library for client-side HTTP
+http-accept-0.2                             Functions for working with HTTP Accept headers
+http-api-data-0.2.4                         Converting to/from HTTP API data like URL pieces, headers and query parameters
+http-client-0.4.31.2                        An HTTP client engine
+http-client-openssl-0.2.0.4                 http-client backend using the OpenSSL library
+http-client-tls-0.2.4.1                     http-client backend using the connection package and tls library
+http-common-0.8.2.0                         Common types for HTTP clients and servers
+http-conduit-2.1.11                         HTTP client package with conduit interface and HTTPS support
+http-date-0.0.6.1                           HTTP Date parser/formatter
+http-link-header-1.0.3                      A parser and writer for the HTTP Link header as specified in RFC 5988 "Web Linking"
+http-media-0.6.4                            Processing HTTP Content-Type and Accept headers
+http-reverse-proxy-0.4.3.2                  Reverse proxy HTTP requests, either over raw sockets or with WAI
+http-streams-0.8.3.3                        An HTTP client using io-streams
+http-types-0.9.1                            Generic HTTP types for Haskell (for both client and server code)
+http2-1.6.2                                 HTTP/2.0 library including frames and HPACK
+httpd-shed-0.4.0.3                          A simple web-server with an interact style API
+human-readable-duration-0.2.0.3             Provide duration helper
+HUnit-1.3.1.2                               A unit testing framework for Haskell
+hunit-dejafu-0.3.0.3                        Deja Fu support for the HUnit test framework
+hvect-0.3.1.0                               Simple strict heterogeneous lists
+hw-bits-0.0.0.6                             Bit manipulation
+hw-conduit-0.0.0.11                         Conduits for tokenizing streams
+hw-diagnostics-0.0.0.5                      Diagnostics library
+hw-json-0.0.0.2                             Memory efficient JSON parser
+hw-parser-0.0.0.1                           Conduits for tokenizing streams
+hw-prim-0.0.0.10                            Primitive functions and data types
+hw-rankselect-0.0.0.2                       Rank-select
+hw-succinct-0.0.0.14                        Succint datastructures
+hweblib-0.6.3                               Haskell Web Library
+hworker-0.1.0.1                             A reliable at-least-once job queue built on top of redis
+hworker-ses-0.1.1.0                         Library for sending email with Amazon's SES and hworker
+hxt-9.3.1.16                                A collection of tools for processing XML with Haskell
+hxt-charproperties-9.2.0.1                  Character properties and classes for XML and Unicode
+hxt-css-0.1.0.3                             CSS selectors for HXT
+hxt-curl-9.1.1.1                            LibCurl interface for HXT
+hxt-expat-9.1.1                             Expat parser for HXT
+hxt-http-9.1.5.2                            Interface to native Haskell HTTP package HTTP
+hxt-pickle-utils-0.1.0.3                    Utility functions for using HXT picklers
+hxt-regex-xmlschema-9.2.0.3                 A regular expression library for W3C XML Schema regular expressions
+hxt-relaxng-9.1.5.5                         The HXT RelaxNG validator
+hxt-tagsoup-9.1.4                           TagSoup parser for HXT
+hxt-unicode-9.0.2.4                         Unicode en-/decoding functions for utf8, iso-latin-* and other encodings
+hybrid-vectors-0.2.1                        Hybrid vectors e.g. Mixed Boxed/Unboxed vectors
+hyperloglog-0.4.0.4                         An approximate streaming (constant space) unique object counter
+hyphenation-0.6                             Configurable Knuth-Liang hyphenation
+hzulip-1.1.1.3                              A haskell wrapper for the Zulip API
+ical-0.0.1                                  iCalendar format parser and org-mode converter
+iconv-0.4.1.3                               String encoding conversion
+ide-backend-0.10.0.1                        An IDE backend library
+ide-backend-common-0.10.1.2                 Shared library used be ide-backend and ide-backend-server
+ide-backend-rts-0.1.3.1                     RTS for the IDE backend
+ide-backend-server-0.10.0.2                 An IDE backend server
+idris-0.11.2                                Functional Programming Language with Dependent Types
+ieee754-0.7.9                               Utilities for dealing with IEEE floating point numbers
+IfElse-0.85                                 Anaphoric and miscellaneous useful control-flow
+ig-0.7                                      Bindings to Instagram's API
+ignore-0.1.1.0                              Handle ignore files of different VCSes
+ihaskell-0.8.4.0                            A Haskell backend kernel for the IPython project
+ihaskell-aeson-0.3.0.0                      IHaskell display instances for Aeson
+ihaskell-basic-0.3.0.0                      IHaskell display instances for basic types
+ihaskell-blaze-0.3.0.0                      IHaskell display instances for blaze-html types
+ihaskell-charts-0.3.0.0                     IHaskell display instances for charts types
+ihaskell-diagrams-0.3.1.0                   IHaskell display instances for diagram types
+ihaskell-hatex-0.2.1.0                      IHaskell display instances for hatex
+ihaskell-inline-r-0.1.1.0                   Embed R quasiquotes and plots in IHaskell notebooks
+ihaskell-juicypixels-0.3.0.0                IHaskell - IHaskellDisplay instances of the image types of the JuicyPixels package
+ihaskell-magic-0.3.0.0                      IHaskell display instances for bytestrings
+ihaskell-rlangqq-0.3.0.0                    a rDisp quasiquote to show plots from Rlang-QQ in IHaskell
+imagesize-conduit-1.1                       Determine the size of some common image formats
+immortal-0.2.2                              Spawn threads that never die (unless told to do so)
+include-file-0.1.0.3                        Inclusion of files in executables at compile-time
+incremental-parser-0.2.5                    Generic parser library capable of providing partial results from partial input
+indents-0.3.3                               indentation sensitive parser-combinators for parsec
+inflections-0.2.0.1                         Inflections library for Haskell
+ini-0.3.5                                   Quick and easy configuration files in the INI format
+inline-c-0.5.5.9                            Write Haskell source files including C code inline. No FFI required
+inline-c-cpp-0.1.0.0                        Lets you embed C++ code into Haskell
+inline-r-0.8.0.1                            Seamlessly call R from Haskell and vice versa. No FFI required
+insert-ordered-containers-0.1.0.1           Associative containers retating insertion order for traversals
+integer-gmp-1.0.0.0                         Integer library based on GMP
+integration-0.2.1                           Fast robust numeric integration via tanh-sinh quadrature
+interpolate-0.1.0                           String interpolation done right
+interpolatedstring-perl6-1.0.0              QuasiQuoter for Perl6-style multi-line interpolated strings
+IntervalMap-0.5.2.0                         Containers for intervals, with efficient search
+intervals-0.7.2                             Interval Arithmetic
+invariant-0.3.1                             Haskell 98 invariant functors
+io-choice-0.0.6                             Choice for IO and lifted IO
+io-machine-0.2.0.0                          Easy I/O model to learn IO monad
+io-manager-0.1.0.2                          Skeleton library around the IO monad
+io-memoize-1.1.1.0                          Memoize IO actions
+io-region-0.1.1                             Exception safe resource management with dynamic regions
+io-storage-0.3                              A key-value store in the IO monad
+io-streams-1.3.5.0                          Simple, composable, and easy-to-use stream I/O
+ip6addr-0.5.1.4                             Commandline tool to generate IPv6 address text representations
+iproute-1.7.1                               IP Routing Table
+IPv6Addr-0.6.2.0                            Library to deal with IPv6 address text representations
+ipython-kernel-0.8.4.0                      A library for creating kernels for IPython frontends
+irc-0.6.1.0                                 A small library for parsing IRC messages
+irc-client-0.3.0.0                          An IRC client library
+irc-conduit-0.1.2.0                         Streaming IRC message library using conduits
+irc-ctcp-0.1.3.0                            A CTCP encoding and decoding library for IRC clients
+irc-dcc-1.2.1                               A DCC message parsing and helper library for IRC clients
+islink-0.1.0.0                              Check if an HTML element is a link
+iso3166-country-codes-0.20140203.7          A datatype for ISO 3166 country codes
+iso639-0.1.0.3                              ISO-639-1 language codes
+iso8601-time-0.1.4                          Convert to/from the ISO 8601 time format
+iterable-3.0                                API for hierarchical multilevel collections
+ix-shapable-0.1.0                           Reshape multi-dimensional arrays
+ixset-1.0.7                                 Efficient relational queries on Haskell sets
+ixset-typed-0.3.1                           Efficient relational queries on Haskell sets
+jmacro-0.6.14                               QuasiQuotation library for programmatic generation of Javascript code
+jmacro-rpc-0.3.2                            JSON-RPC clients and servers using JMacro, and evented client-server Reactive Programming
+jmacro-rpc-happstack-0.3.2                  Happstack backend for jmacro-rpc
+jmacro-rpc-snap-0.3                         Snap backend for jmacro-rpc
+jose-0.4.0.3                                Javascript Object Signing and Encryption and JSON Web Token library
+jose-jwt-0.7.3                              JSON Object Signing and Encryption Library
+js-flot-0.8.3                               Obtain minified flot code
+js-jquery-1.12.4                            Obtain minified jQuery code
+jsaddle-0.3.0.3                             Interface for JavaScript that works with GHCJS and GHC
+json-0.9.1                                  Support for serialising Haskell to and from JSON
+json-autotype-1.0.15                        Automatic type declaration for JSON input data
+json-builder-0.3                            Data structure agnostic JSON serialization
+json-schema-0.7.4.1                         Types and type classes for defining JSON schemas
+JuicyPixels-3.2.8                           Picture loading/serialization (in png, jpeg, bitmap, gif, tga, tiff and radiance)
+JuicyPixels-repa-0.7.1.0                    Convenience functions to obtain array representations of images
+JuicyPixels-scale-dct-0.1.1.2               Scale JuicyPixels images with DCT
+JuicyPixels-util-0.2                        Convert JuicyPixel images into RGBA format, flip, trim and so on
+jwt-0.7.2                                   JSON Web Token (JWT) decoding and encoding
+kan-extensions-4.2.3                        Kan extensions, Kan lifts, various forms of the Yoneda lemma, and (co)density (co)monads
+kanji-2.0.0                                 Perform 漢字検定 (Japan Kanji Aptitude Test) level analysis on Japanese Kanji
+kansas-comet-0.4                            A JavaScript push mechanism based on the comet idiom
+katip-0.2.0.0                               A structured logging framework
+katip-elasticsearch-0.2.1.0                 ElasticSearch scribe for the Katip logging framework
+kdt-0.2.4                                   Fast and flexible k-d trees for various types of point queries
+keter-1.4.3.2                               Web application deployment manager, focusing on Haskell web frameworks
+keycode-0.2.2                               Maps web browser keycodes to their corresponding keyboard keys
+keys-3.11                                   Keyed functors and containers
+kmeans-0.1.3                                K-means clustering algorithm
+knob-0.1.1                                  Memory-backed handles
+koofr-client-1.0.0.3                        Client to Koofr API
+kraken-0.0.3                                Kraken.io API client
+kure-2.16.12                                Combinators for Strategic Programming
+lackey-0.3.2                                Generate Ruby clients from Servant APIs
+lambdacube-compiler-0.5.0.1                 LambdaCube 3D is a DSL to program GPUs
+lambdacube-gl-0.5.1.2                       OpenGL 3.3 Core Profile backend for LambdaCube 3D
+lambdacube-ir-0.3.0.1                       LambdaCube 3D intermediate representation of 3D graphics pipelines
+language-c-0.5.0                            Analysis and generation of C code
+language-c-quote-0.11.7.1                   C/CUDA/OpenCL/Objective-C quasiquoting library
+language-ecmascript-0.17.1.0                JavaScript parser and pretty-printer library
+language-glsl-0.2.0                         GLSL abstract syntax tree, parser, and pretty-printer
+language-haskell-extract-0.2.4              Module to automatically extract functions from the local code
+language-java-0.2.8                         Manipulating Java source: abstract syntax, lexer, parser, and pretty-printer
+language-javascript-0.6.0.9                 Parser for JavaScript
+language-lua2-0.1.0.5                       Lua parser and pretty printer
+language-nix-2.1.0.1                        Data types and useful functions to represent and manipulate the Nix language
+language-thrift-0.8.0.2                     Parser and pretty printer for the Thrift IDL format
+largeword-1.2.5                             Provides Word128, Word192 and Word256 and a way of producing other large words if required
+latex-formulae-hakyll-0.2.0.2               Use actual LaTeX to render formulae inside Hakyll pages
+latex-formulae-image-0.1.1.2                A library for rendering LaTeX formulae as images using an actual LaTeX installation
+latex-formulae-pandoc-0.2.0.4               Render LaTeX formulae in pandoc documents to images with an actual LaTeX installation
+lattices-1.5.0                              Fine-grained library for constructing and manipulating lattices
+lazy-csv-0.5.1                              Efficient lazy parsers for CSV (comma-separated values)
+lca-0.3                                     O(log n) persistent on-line lowest common ancestor calculation without preprocessing
+leksah-server-0.15.2.0                      Metadata collection for leksah
+lens-4.13                                   Lenses, Folds and Traversals
+lens-action-0.2.0.2                         Monadic Getters and Folds
+lens-aeson-1.0.0.5                          Law-abiding lenses for aeson
+lens-datetime-0.3                           Lenses for Data.Time.* types
+lens-family-1.2.1                           Lens Families
+lens-family-core-1.2.1                      Haskell 98 Lens Families
+lens-family-th-0.4.1.0                      Generate lens-family style lenses
+lens-regex-0.1.0                            Lens powered regular expression
+lens-simple-0.1.0.9                         simplified import of elementary lens-family combinators
+lentil-0.1.12.0                             frugal issue tracker
+leveldb-haskell-0.6.4                       Haskell bindings to LevelDB
+lexer-applicative-2.1.0.1                   Simple lexer based on applicative regular expressions
+lhs2tex-1.19                                Preprocessor for typesetting Haskell sources with LaTeX
+libgit-0.3.1                                Simple Git Wrapper
+libinfluxdb-0.0.4                           libinfluxdb
+libnotify-0.1.1.0                           Bindings to libnotify library
+librato-0.2.0.1                             Bindings to the Librato API
+libsystemd-journal-1.4.1                    Haskell bindings to libsystemd-journal
+libxml-sax-0.7.5                            Bindings for the libXML2 SAX interface
+lift-generics-0.1.1                         GHC.Generics-based Language.Haskell.TH.Syntax.lift implementation
+lifted-async-0.9.0                          Run lifted IO operations asynchronously and wait for their results
+lifted-base-0.2.3.8                         lifted IO operations from the base library
+linear-1.20.5                               Linear Algebra
+linear-accelerate-0.2                       Instances to use linear vector spaces on accelerate backends
+linux-file-extents-0.2.0.0                  Retrieve file fragmentation information under Linux
+linux-namespaces-0.1.2.0                    Create new or enter an existing linux namespaces
+List-0.5.2                                  List monad transformer and class
+list-fusion-probe-0.1.0.6                   testing list fusion for success
+list-prompt-0.1.1.0                         A simple list prompt UI for the terminal
+list-t-0.4.7                                ListT done right
+ListLike-4.2.1                              Generic support for list-like structures
+load-env-0.1.1                              Load environment variables from a file
+loch-th-0.2.1                               Support for precise error locations in source files (Template Haskell version)
+log-domain-0.10.3.1                         Log-domain arithmetic
+logfloat-0.13.3.3                           Log-domain floating point numbers
+logging-facade-0.1.1                        Simple logging abstraction that allows multiple back-ends
+logict-0.6.0.2                              A backtracking logic-programming monad
+loop-0.3.0                                  Fast loops (for when GHC can't optimize forM_)
+lrucache-1.2.0.0                            a simple, pure LRU cache
+ltext-0.0.2.1                               Parameterized file evaluator
+ltk-0.15.0.5                                Leksah tool kit
+lucid-2.9.7                                 Clear to write, read and edit DSL for HTML
+lucid-svg-0.6.0.1                           DSL for SVG using lucid for HTML
+luminance-0.11.0.4                          Type-safe, type-level and stateless graphics framework
+luminance-samples-0.11                      Luminance samples
+lzma-0.0.0.3                                LZMA/XZ compression and decompression
+lzma-conduit-1.1.3.0                        Conduit interface for lzma/xz compression
+machines-0.5.1                              Networked stream transducers
+machines-binary-0.3.0.3                     Binary utilities for the machines library
+machines-directory-0.2.0.9                  Directory (system) utilities for the machines library
+machines-io-0.2.0.13                        IO utilities for the machines library
+machines-process-0.2.0.8                    Process (system) utilities for the machines library
+magic-1.1                                   Interface to C file/magic library
+mainland-pretty-0.4.1.4                     Pretty printing designed for printing source code
+managed-1.0.5                               A monad for managed values
+mandrill-0.5.2.3                            Library for interfacing with the Mandrill JSON API
+map-syntax-0.2.0.1                          Syntax sugar for defining maps
+markdown-0.1.16                             Convert Markdown to HTML, with XSS protection
+markdown-unlit-0.4.0                        Literate Haskell support for Markdown
+markup-3.1.0                                Abstraction for HTML-embedded content
+MASMGen-0.5.0.0                             Generate MASM code from haskell
+math-functions-0.1.7.0                      Special functions and Chebyshev polynomials
+matrices-0.4.4                              native matrix based on vector
+matrix-0.3.5.0                              A native implementation of matrix operations
+maximal-cliques-0.1.1                       Enumerate all maximal cliques of a graph
+mbox-0.3.3                                  Read and write standard mailbox files
+mcmc-types-1.0.2                            Common types for sampling
+megaparsec-4.4.0                            Monadic parser combinators
+memcached-binary-0.2.0                      memcached client using binary protocol
+memoization-utils-0.1.0.1                   Utilities for memoizing functions
+memoize-0.7                                 A memoization library
+memory-0.13                                 memory and related abstraction stuff
+MemoTrie-0.6.7                              Trie-based memo functions
+mersenne-random-pure64-0.2.0.5              Generate high quality pseudorandom numbers purely using a Mersenne Twister
+messagepack-0.5.4                           Serialize instance for Message Pack Object
+messagepack-rpc-0.5.1                       Message Pack RPC over TCP
+metrics-0.3.0.2                             High-performance application metric tracking
+MFlow-0.4.6.0                               stateful, RESTful web framework
+microformats2-parser-1.0.1.6                A Microformats 2 parser
+microlens-0.4.7.0                           A tiny lens library with no dependencies. If you're writing an app, you probably want microlens-platform, not this
+microlens-aeson-2.1.1                       Law-abiding lenses for Aeson, using microlens
+microlens-contra-0.1.0.1                    True folds and getters for microlens
+microlens-ghc-0.4.7.0                       microlens + array, bytestring, containers, transformers
+microlens-mtl-0.1.10.0                      microlens support for Reader/Writer/State from mtl
+microlens-platform-0.3.7.0                  Feature-complete microlens
+microlens-th-0.4.1.0                        Automatic generation of record lenses for microlens
+midair-0.2.0.0                              Hot-swappable FRP
+mighty-metropolis-1.0.3                     The Metropolis algorithm
+mime-mail-0.4.12                            Compose MIME email messages
+mime-mail-ses-0.3.2.3                       Send mime-mail messages via Amazon SES
+mime-types-0.1.0.7                          Basic mime-type handling types and functions
+misfortune-0.1.1.2                          fortune-mod clone
+missing-foreign-0.1.1                       Convenience functions for FFI work
+MissingH-1.3.0.2                            Large utility library
+mmap-0.5.9                                  Memory mapped files for POSIX and Windows
+mmorph-1.0.6                                Monad morphisms
+mockery-0.3.4                               Support functions for automated testing
+modify-fasta-0.8.2.1                        Modify fasta (and CLIP) files in several optional ways
+moesocks-1.0.0.41                           A functional firewall killer
+mole-0.0.3                                  A glorified string replacement tool
+monad-control-1.0.1.0                       Lift control operations, like exception catching, through monad transformers
+monad-coroutine-0.9.0.3                     Coroutine monad transformer for suspending and resuming monadic computations
+monad-extras-0.5.11                         Extra utility functions for working with monads
+monad-http-0.1.0.0                          A class of monads which can do http requests
+monad-journal-0.7.2                         Pure logger typeclass and monad transformer
+monad-logger-0.3.20.1                       A class of monads which can log messages
+monad-logger-json-0.1.0.0                   JSON-friendly Logging APIs
+monad-logger-syslog-0.1.3.0                 syslog output for monad-logger
+monad-loops-0.4.3                           Monadic loops
+monad-par-0.3.4.8                           A library for parallel programming based on a monad
+monad-par-extras-0.3.3                      Combinators and extra features for Par monads
+monad-parallel-0.7.2.2                      Parallel execution of monadic computations
+monad-peel-0.2.1.1                          Lift control operations like exception catching through monad transformers
+monad-primitive-0.1                         Type class for monad transformers stack with pirimitive base monad
+monad-products-4.0.1                        Monad products
+monad-skeleton-0.1.2.2                      An undead monad
+monad-st-0.2.4                              Provides a MonadST class
+monad-time-0.2                              Type class for monads which carry the notion of the current time
+monad-unlift-0.2.0                          Typeclasses for representing monad transformer unlifting
+monad-unlift-ref-0.2.0                      Typeclasses for representing monad transformer unlifting
+MonadCatchIO-transformers-0.3.1.3           Monad-transformer compatible version of the Control.Exception module
+monadcryptorandom-0.7.0                     A monad for using CryptoRandomGen
+monadic-arrays-0.2.2                        Boxed and unboxed arrays for monad transformers
+monadLib-3.7.3                              A collection of monad transformers
+monadloc-0.7.1                              A class for monads which can keep a monadic call trace
+monadplus-1.4.2                             Haskell98 partial maps and filters over MonadPlus
+MonadPrompt-1.0.0.5                         MonadPrompt, implementation & examples
+MonadRandom-0.4.2.3                         Random-number generation monad
+monads-tf-0.1.0.3                           Monad classes, using type families
+mongoDB-2.0.10                              Driver (client) for MongoDB, a free, scalable, fast, document DBMS
+mono-traversable-0.10.2                     Type classes for mapping, folding, and traversing monomorphic containers
+monoid-extras-0.4.2                         Various extra monoid-related definitions and utilities
+monoid-subclasses-0.4.2                     Subclasses of Monoid
+monoidal-containers-0.1.2.5                 Containers with monoidal accumulation
+morte-1.6.2                                 A bare-bones calculus of constructions
+mountpoints-1.0.2                           list mount points
+msi-kb-backlit-0.1.0.1                      A command line tool to change backlit colors of your MSI keyboards
+mstate-0.2.7                                MState: A consistent State monad for concurrent applications
+mtl-2.2.1                                   Monad classes, using functional dependencies
+mtl-compat-0.2.1.3                          Backported Control.Monad.Except module from mtl
+mtl-prelude-2.0.3.1                         Reexports of most definitions from "mtl" and "transformers"
+multiarg-0.30.0.10                          Command lines for options that take multiple arguments
+multimap-1.2.1                              A multimap
+multipart-0.1.2                             HTTP multipart split out of the cgi package
+multiplate-0.0.3                            Lightweight generic library for mutually recursive data types
+multiset-0.3.3                              The Data.MultiSet container type
+multiset-comb-0.2.4.1                       Combinatorial algorithms over multisets
+murmur-hash-0.1.0.9                         MurmurHash2 implementation for Haskell
+MusicBrainz-0.2.4                           interface to MusicBrainz XML2 web service
+mustache-1.0.2                              A mustache template parser library
+mutable-containers-0.3.3                    Abstactions and concrete implementations of mutable containers
+mwc-probability-1.2.2                       Sampling function-based probability distributions
+mwc-random-0.13.5.0                         Fast, high quality pseudo random number generation
+mysql-0.1.4                                 A low-level MySQL client library
+mysql-simple-0.2.2.5                        A mid-level MySQL client library
+nagios-check-0.3.2                          Package for writing monitoring plugins
+names-th-0.2.0.2                            Manipulate name strings for TH
+nano-erl-0.1.0.1                            Small library for Erlang-style actor semantics
+nanospec-0.2.1                              A lightweight implementation of a subset of Hspec's API
+nationstates-0.5.0.0                        NationStates API client
+nats-1.1.1                                  Natural numbers
+natural-sort-0.1.2                          User-friendly text collation
+natural-transformation-0.3.1                A natural transformation package
+ndjson-conduit-0.1.0.5                      Conduit-based parsing and serialization for newline delimited JSON
+neat-interpolation-0.3.2.1                  A quasiquoter for neat and simple multiline text interpolation
+nested-routes-7.0.0                         Declarative, compositional Wai responses
+nettle-0.2.0                                safe nettle binding
+network-2.6.3.1                             Low-level networking interface
+network-anonymous-i2p-0.10.0                Haskell API for I2P anonymous networking
+network-anonymous-tor-0.11.0                Haskell API for Tor anonymous networking
+network-attoparsec-0.12.2                   Utility functions for running a parser against a socket
+network-carbon-1.0.6                        A Haskell implementation of the Carbon protocol (part of the Graphite monitoring tools)
+network-conduit-tls-1.2.2                   Create TLS-aware network code with conduits
+network-house-0.1.0.2                       data and parsers for Ethernet, TCP, UDP, IPv4, IPv6, ICMP, DHCP, TFTP
+network-info-0.2.0.8                        Access the local computer's basic network configuration
+network-multicast-0.1.2                     Simple multicast library
+Network-NineP-0.4.1                         High-level abstraction over 9P protocol
+network-protocol-xmpp-0.4.8                 Client library for the XMPP protocol
+network-simple-0.4.0.5                      Simple network sockets usage patterns
+network-transport-0.4.4.0                   Network abstraction layer
+network-transport-composed-0.2.0.1          Compose network transports
+network-transport-inmemory-0.5.1            In-memory instantiation of Network.Transport
+network-transport-tcp-0.5.1                 TCP instantiation of Network.Transport
+network-transport-tests-0.2.3.0             Unit tests for Network.Transport implementations
+network-transport-zeromq-0.2.1.1            ZeroMQ backend for network-transport
+network-uri-2.6.1.0                         URI manipulation
+newtype-0.2                                 A typeclass and set of functions for working with newtypes
+newtype-generics-0.4                        A typeclass and set of functions for working with newtypes, with generics support
+nicify-lib-1.0.1                            Pretty print the standard output of default `Show` instances
+NineP-0.0.2.1                               9P2000 in pure Haskell
+nix-paths-1.0.0.1                           Knowledge of Nix's installation directories
+nonce-1.0.2                                 Generate cryptographic nonces
+NoTrace-0.3.0.1                             Remove all the functions come from Debug.Trace after debugging
+nsis-0.3                                    DSL for producing Windows Installer using NSIS
+numbers-3000.2.0.1                          Various number types
+numeric-extras-0.1                          Useful tools from the C standard library
+NumInstances-1.4                            Instances of numeric classes for functions and tuples
+numtype-dk-0.5.0.1                          Type-level integers, using TypeNats, Data Kinds, and Closed Type Families
+objective-1.1.1                             Composable objects
+ObjectName-1.1.0.1                          Explicitly handled object names
+octane-0.4.24                               Parse Rocket League replays
+Octree-0.5.4.3                              Simple unbalanced Octree for storing data about 3D points
+ofx-0.4.2.0                                 Parser for OFX data
+old-locale-1.0.0.7                          locale library
+old-time-1.1.0.3                            Time library
+omnifmt-0.2.1.1                             A pretty-printer wrapper to faciliate ease of formatting during development
+once-0.1.0.0                                memoization for IO actions and functions
+OneTuple-0.2.1                              Singleton Tuple
+oo-prototypes-0.1.0.0                       Support for OO-like prototypes
+opaleye-0.4.2.0                             An SQL-generating DSL targeting PostgreSQL
+opaleye-trans-0.3.3                         A monad transformer for Opaleye
+open-browser-0.2.1.0                        Open a web browser from Haskell
+OpenGL-3.0.1.0                              A binding for the OpenGL graphics system
+OpenGLRaw-3.2.4.0                           A raw binding for the OpenGL graphics system
+openpgp-asciiarmor-0.1                      OpenPGP (RFC4880) ASCII Armor codec
+opensource-0.1.0.0                          Haskell API Wrapper for the Open Source License API
+openssl-streams-1.2.1.0                     OpenSSL network support for io-streams
+operational-0.2.3.5                         Implementation of difficult monads made easy with operational semantics
+operational-class-0.3.0.0                   MonadProgram typeclass for the operational package
+opml-conduit-0.5.0.1                        Streaming parser/renderer for the OPML 2.0 format
+optional-args-1.0.1                         Optional function arguments
+options-1.2.1.1                             A powerful and easy-to-use command-line option parser
+optparse-applicative-0.12.1.0               Utilities and combinators for parsing command line options
+optparse-generic-1.1.3                      Auto-generate a command-line parser for your datatype
+optparse-helper-0.2.1.1                     Helper functions for optparse-applicative
+optparse-simple-0.0.3                       Simple interface to optparse-applicative
+osdkeys-0.0                                 Show keys pressed with an on-screen display (Linux only)
+package-description-remote-0.2.0.0          Fetches a 'GenericPackageDescription' from Hackage
+packdeps-0.4.3                              Check your cabal packages for lagging dependencies
+pager-0.1.1.0                               Open up a pager, like 'less' or 'more'
+pagerduty-0.0.7                             Client library for PagerDuty Integration and REST APIs
+palette-0.1.0.4                             Utilities for choosing and creating color schemes
+pandoc-1.17.1                               Conversion between markup formats
+pandoc-citeproc-0.9.1.1                     Supports using pandoc with citeproc
+pandoc-types-1.16.1.1                       Types for representing a structured document
+pango-0.13.1.1                              Binding to the Pango text rendering engine
+parallel-3.2.1.0                            Parallel programming library
+parallel-io-0.3.3                           Combinators for executing IO actions in parallel on a thread pool
+parseargs-0.2.0.8                           Full-featured command-line argument parsing library
+parsec-3.1.11                               Monadic parser combinators
+parsers-0.12.4                              Parsing combinators
+partial-handler-1.0.2                       A composable exception handler
+partial-isomorphisms-0.2                    Partial isomorphisms
+patches-vector-0.1.5.4                      Patches (diffs) on vectors: composable, mergeable, and invertible
+path-0.5.11                                 Support for well-typed paths
+path-extra-0.0.3                            Chris Done's path library, enriched with URL-related goodies
+path-io-1.1.0                               Interface to ‘directory’ package for users of ‘path’
+path-pieces-0.2.1                           Components of paths
+pathwalk-0.3.1.2                            Path walking utilities for Haskell programs
+patience-0.1.1                              Patience diff and longest increasing subsequence
+pattern-arrows-0.0.2                        Arrows for Pretty Printing
+pcap-0.4.5.2                                A system-independent interface for user-level packet capture
+pcre-heavy-1.0.0.2                          A regexp library on top of pcre-light you can actually use
+pcre-light-0.4.0.4                          Portable regex library for Perl 5 compatible regular expressions
+pcre-utils-0.1.8.1                          Perl-like substitute and split for PCRE regexps
+pdf-toolbox-content-0.0.5.1                 A collection of tools for processing PDF files
+pdf-toolbox-core-0.0.4.1                    A collection of tools for processing PDF files
+pdf-toolbox-document-0.0.7.1                A collection of tools for processing PDF files
+pdfinfo-1.5.4                               Wrapper around the pdfinfo command
+pem-0.2.2                                   Privacy Enhanced Mail (PEM) format reader and writer
+permutation-0.5.0.5                         A library for permutations and combinations
+persistable-record-0.4.1.0                  Binding between SQL database values and haskell records
+persistable-types-HDBC-pg-0.0.1.4           HDBC and Relational-Record instances of PostgreSQL extended types
+persistent-2.2.4.1                          Type-safe, multi-backend data serialization
+persistent-mongoDB-2.1.4                    Backend for the persistent library using mongoDB
+persistent-mysql-2.3.0.2                    Backend for the persistent library using MySQL database server
+persistent-postgresql-2.2.2                 Backend for the persistent library using postgresql
+persistent-refs-0.4                         Haskell references backed by an IntMap for persistence and reversibility
+persistent-sqlite-2.2.1                     Backend for the persistent library using sqlite3
+persistent-template-2.1.8.1                 Type-safe, non-relational, multi-backend persistence
+pgp-wordlist-0.1.0.1                        Translate between binary data and a human-readable collection of words
+phantom-state-0.2.1.2                       Phantom State Transformer. Like State Monad, but without values
+picoparsec-0.1.2.3                          Fast combinator parsing for bytestrings and text
+pinch-0.2.0.2                               An alternative implementation of Thrift for Haskell
+pinchot-0.18.2.0                            Write grammars, not parsers
+pipes-4.1.9                                 Compositional pipelines
+pipes-aeson-0.4.1.7                         Encode and decode JSON streams using Aeson and Pipes
+pipes-attoparsec-0.5.1.4                    Attoparsec and Pipes integration
+pipes-bgzf-0.2.0.1                          Blocked GZip
+pipes-binary-0.4.1                          Encode and decode binary streams using the pipes and binary libraries
+pipes-bytestring-2.1.4                      ByteString support for pipes
+pipes-cacophony-0.2.1                       Pipes for Noise-secured network connections
+pipes-cliff-0.10.0.4                        Streaming to and from subprocesses using Pipes
+pipes-concurrency-2.0.7                     Concurrency for the pipes ecosystem
+pipes-csv-1.4.3                             Fast, streaming csv parser
+pipes-extras-1.0.8                          Extra utilities for pipes
+pipes-fastx-0.3.0.0                         Streaming parsers for Fasta and Fastq
+pipes-group-1.0.6                           Group streams into substreams
+pipes-http-1.0.4                            HTTP client with pipes interface
+pipes-illumina-0.1.0.0                      Illumina NGS data processing
+pipes-mongodb-0.1.0.0                       Stream results from MongoDB
+pipes-network-0.6.4.1                       Use network sockets together with the pipes library
+pipes-parse-3.0.8                           Parsing infrastructure for the pipes ecosystem
+pipes-safe-2.2.4                            Safety for the pipes ecosystem
+pipes-text-0.0.2.5                          properly streaming text
+pipes-transduce-0.4                         Interfacing pipes with foldl folds
+pipes-wai-3.2.0                             A port of wai-conduit for the pipes ecosystem
+pkcs10-0.1.1.0                              PKCS#10 library
+placeholders-0.1                            Placeholders for use while developing Haskell code
+plan-b-0.2.0                                Failure-tolerant file and directory editing
+plot-0.2.3.5                                A plotting library, exportable as eps/pdf/svg/png or renderable with gtk
+plot-gtk-0.2.0.4                            GTK plots and interaction with GHCi
+plot-gtk-ui-0.3.0.2                         A quick way to use Mathematica like Manipulation abilities
+plot-gtk3-0.1.0.2                           GTK3 plots and interaction with GHCi
+pointed-4.2.0.2                             Pointed and copointed data
+pointedlist-0.6.1                           A zipper-like comonad which works as a list, tracking a position
+pointful-1.0.8                              Pointful refactoring tool
+pointless-fun-1.1.0.6                       Some common point-free combinators
+poly-arity-0.0.7                            Tools for working with functions of undetermined arity
+polynomials-bernstein-1.1.2                 A solver for systems of polynomial equations in bernstein form
+polyparse-1.12                              A variety of alternative parser combinator libraries
+PortMidi-0.1.6.0                            A binding for PortMedia/PortMidi
+posix-realtime-0.0.0.4                      POSIX Realtime functionality
+post-mess-age-0.2.1.0                       Send messages to a handle concurrently without getting them mixed
+postgresql-binary-0.9.1.1                   Encoders and decoders for the PostgreSQL's binary format
+postgresql-libpq-0.9.2.0                    low-level binding to libpq
+postgresql-orm-0.4.1                        An ORM (Object Relational Mapping) and migrations DSL for PostgreSQL
+postgresql-schema-0.1.10                    PostgreSQL Schema Management
+postgresql-simple-0.5.2.1                   Mid-Level PostgreSQL client library
+postgresql-simple-url-0.1.0.1               Parse postgres:// url into ConnectInfo
+postgresql-transactional-1.1.1              a transactional monad on top of postgresql-simple
+pred-set-0.0.1                              Simple cached predicates
+pred-trie-0.5.1                             Predicative tries
+prednote-0.36.0.4                           Evaluate and display trees of predicates
+prefix-units-0.2.0                          A basic library for SI/binary prefix units
+prelude-extras-0.4.0.3                      Higher order versions of Prelude classes
+prelude-safeenum-0.1.1.2                    A redefinition of the Prelude's Enum class in order to render it safe
+preprocessor-tools-1.0.1                    A framework for extending Haskell's syntax via quick-and-dirty preprocessors
+presburger-1.3.1                            A decision procedure for quantifier-free linear arithmetic
+pretty-1.1.2.0                              Pretty-printing library
+pretty-class-1.0.1.1                        Pretty printing class similar to Show
+pretty-hex-1.0                              A library for hex dumps of ByteStrings
+pretty-show-1.6.12                          Tools for working with derived `Show` instances and generic inspection of values
+prettyclass-1.0.0.0                         Pretty printing class similar to Show
+primes-0.2.1.0                              Efficient, purely functional generation of prime numbers
+primitive-0.6.1.0                           Primitive memory-related operations
+process-1.2.3.0                             Process libraries
+process-extras-0.3.3.8                      Process extras
+process-streaming-0.9.1.2                   Streaming interface to system processes
+product-profunctors-0.7.1.0                 product-profunctors
+profiteur-0.3.0.3                           Treemap visualiser for GHC prof files
+profunctor-extras-4.0                       This package has been absorbed into profunctors 4.0
+profunctors-5.2                             Profunctors
+project-template-0.2.0                      Specify Haskell project templates and generate files
+projectroot-0.2.0.1                         Bindings to the projectroot C logic
+prometheus-client-0.1.0.1                   Haskell client library for http://prometheus.io
+prometheus-metrics-ghc-0.1.0.1              Metrics exposing GHC runtime information for use with prometheus-client
+prompt-0.1.1.2                              Monad (and transformer) for deferred-effect pure prompt-response queries
+protobuf-0.2.1.1                            Google Protocol Buffers via GHC.Generics
+protobuf-simple-0.1.0.2                     Simple Protocol Buffers library (proto2)
+protocol-buffers-2.2.0                      Parse Google Protocol Buffer specifications
+protocol-buffers-descriptor-2.2.0           Text.DescriptorProto.Options and code generated from the Google Protocol Buffer specification
+protolude-0.1.10                            A sensible set of defaults for writing custom Preludes
+proxied-0.2                                 Make functions consume Proxy instead of undefined
+psql-helpers-0.1.0.0                        A small collection of helper functions to generate postgresql queries
+PSQueue-1.1                                 Priority Search Queue
+psqueues-0.2.2.3                            Pure priority search queues
+publicsuffix-0.20160522                     The publicsuffix list exposed as proper Haskell types
+pure-cdb-0.1.2                              Another pure-haskell CDB (Constant Database) implementation
+pure-io-0.2.1                               Pure IO monad
+pureMD5-2.1.3                               A Haskell-only implementation of the MD5 digest (hash) algorithm
+purescript-0.8.5.0                          PureScript Programming Language Compiler
+pusher-http-haskell-0.3.0.2                 Haskell client library for the Pusher HTTP API
+pwstore-fast-2.4.4                          Secure password storage
+pwstore-purehaskell-2.1.4                   Secure password storage, in pure Haskell
+quandl-api-0.2.1.0                          Quandl.com API library
+QuasiText-0.1.2.6                           A QuasiQuoter for Text
+questioner-0.1.1.0                          A package for prompting values from the command-line
+QuickCheck-2.8.2                            Automatic testing of Haskell programs
+quickcheck-assertions-0.2.0                 HUnit like assertions for QuickCheck
+quickcheck-instances-0.3.12                 Common quickcheck instances
+quickcheck-io-0.1.4                         Use HUnit assertions as QuickCheck properties
+quickcheck-simple-0.1.0.1                   Test properties and default-mains for QuickCheck
+quickcheck-text-0.1.2.1                     Alternative arbitrary instance for Text
+quickcheck-unicode-1.0.0.1                  Generator and shrink functions for testing Unicode-related software
+rainbow-0.28.0.4                            Print text to terminal with colors and effects
+rainbox-0.18.0.10                           Two-dimensional box pretty printing, with colors
+random-1.1                                  random number library
+random-fu-0.2.7.0                           Random number generation
+random-shuffle-0.0.4                        Random shuffle implementation
+random-source-0.3.0.6                       Generic basis for random number generators
+random-tree-0.6.0.5                         Create random trees
+range-0.1.2.0                               This has a bunch of code for specifying and managing ranges in your code
+range-set-list-0.1.2.0                      Memory efficient sets with ranges of elements
+rank1dynamic-0.3.3.0                        Like Data.Dynamic/Data.Typeable but with support for rank-1 polymorphic types
+Rasterific-0.6.1.1                          A pure haskell drawing engine
+rasterific-svg-0.3.1.2                      SVG renderer based on Rasterific
+ratel-0.1.3                                 Notify Honeybadger about exceptions
+ratel-wai-0.1.2                             Notify Honeybadger about exceptions via a WAI middleware
+raw-strings-qq-1.1                          Raw string literals for Haskell
+read-editor-0.1.0.2                         Opens a temporary file on the system's EDITOR and returns the resulting edits
+read-env-var-0.1.0.1                        Functions for safely reading environment variables
+readable-0.3.1                              Reading from Text and ByteString
+ReadArgs-1.2.3                              Simple command line argument parsing
+readline-1.0.3.0                            An interface to the GNU readline library
+recursion-schemes-4.1.2                     Generalized bananas, lenses and barbed wire
+redis-io-0.7.0                              Yet another redis client
+redis-resp-0.4.0                            REdis Serialization Protocol (RESP) implementation
+reducers-3.12.1                             Semigroups, specialized containers and a general map/reduce framework
+reedsolomon-0.0.4.2                         Reed-Solomon Erasure Coding in Haskell
+ref-fd-0.4.0.1                              A type class for monads with references using functional dependencies
+refact-0.3.0.2                              Specify refactorings to perform with apply-refact
+reflection-2.1.2                            Reifies arbitrary terms into types that can be reflected back into terms
+reform-0.2.7.1                              reform is a type-safe HTML form generation and validation library
+reform-blaze-0.2.4.1                        Add support for using blaze-html with Reform
+reform-hamlet-0.0.5.1                       Add support for using Hamlet with Reform
+reform-happstack-0.2.5.1                    Happstack support for reform
+reform-hsp-0.2.7.1                          Add support for using HSP with Reform
+RefSerialize-0.3.1.4                        Write to and read from ByteStrings maintaining internal memory references
+regex-applicative-0.3.3                     Regex-based parsing with applicative interface
+regex-applicative-text-0.1.0.1              regex-applicative on text
+regex-base-0.93.2                           Replaces/Enhances Text.Regex
+regex-compat-0.95.1                         Replaces/Enhances Text.Regex
+regex-compat-tdfa-0.95.1.4                  Unicode Support version of Text.Regex, using regex-tdfa
+regex-pcre-0.94.4                           Replaces/Enhances Text.Regex
+regex-pcre-builtin-0.94.4.8.8.35            Replaces/Enhances Text.Regex
+regex-posix-0.95.2                          Replaces/Enhances Text.Regex
+regex-tdfa-1.2.2                            Replaces/Enhances Text.Regex
+regex-tdfa-rc-1.1.8.3                       Replaces/Enhances Text.Regex
+regex-tdfa-text-1.0.0.3                     Text interface for regex-tdfa
+reinterpret-cast-0.1.0                      Memory reinterpretation casts for Float/Double and Word32/Word64
+relational-query-0.8.3.2                    Typeful, Modular, Relational, algebraic query engine
+relational-query-HDBC-0.6.0.2               HDBC instance of relational-query and typed query interface for HDBC
+relational-record-0.1.5.1                   Meta package of Relational Record
+relational-schemas-0.1.3.1                  RDBMSs' schema templates for relational-query
+rematch-0.2.0.0                             A simple api for matchers
+repa-3.4.1.2                                High performance, regular, shape polymorphic parallel arrays
+repa-algorithms-3.4.1.1                     Algorithms using the Repa array library
+repa-devil-0.3.2.6                          Support for image reading and writing of Repa arrays using in-place FFI calls
+repa-io-3.4.1.1                             Read and write Repa arrays in various formats
+reroute-0.3.1.0                             abstract implementation of typed and untyped web routing
+resolve-trivial-conflicts-0.3.2.3           Remove trivial conflict markers in a git repository
+resource-pool-0.2.3.2                       A high-performance striped resource pooling implementation
+resourcet-1.1.8.1                           Deterministic allocation and freeing of scarce resources
+rest-client-0.5.1.1                         Utility library for use in generated API client libraries
+rest-core-0.39                              Rest API library
+rest-gen-0.19.0.3                           Documentation and client generation from rest definition
+rest-happstack-0.3.1.1                      Rest driver for Happstack
+rest-snap-0.2.0.1                           Rest driver for Snap
+rest-stringmap-0.2.0.6                      Maps with stringy keys that can be transcoded to JSON and XML
+rest-types-1.14.1.1                         Silk Rest Framework Types
+rest-wai-0.2.0.1                            Rest driver for WAI applications
+rethinkdb-2.2.0.7                           A driver for RethinkDB 2.2
+rethinkdb-client-driver-0.0.22              Client driver for RethinkDB
+retry-0.7.4.2                               Retry combinators for monadic actions that may fail
+rev-state-0.1.2                             Reverse State monad transformer
+rfc5051-0.1.0.3                             Simple unicode collation as per RFC5051
+riak-1.0.1.1                                A Haskell client for the Riak decentralized data store
+riak-protobuf-0.21.0.0                      Haskell types for the Riak protocol buffer API
+Rlang-QQ-0.3.1.0                            quasiquoter for inline-R code
+RNAlien-1.1.3                               Unsupervized construction of RNA family models
+rng-utils-0.2.1                             RNG within an MVar for convenient concurrent use
+rose-trees-0.0.4.3                          A collection of rose tree structures
+rosezipper-0.2                              Generic zipper implementation for Data.Tree
+rotating-log-0.4.2                          Size-limited, concurrent, automatically-rotating log writer
+RSA-2.2.0                                   Implementation of RSA, using the padding schemes of PKCS#1 v2.1
+rss-conduit-0.2.0.2                         Streaming parser/renderer for the RSS 2.0 standard
+runmemo-1.0.0.1                             A simple memoization helper library
+rvar-0.2.0.3                                Random Variables
+s3-signer-0.3.0.0                           Pre-signed Amazon S3 URLs
+safe-0.3.10                                 Library of safe (exception free) functions
+safe-exceptions-0.1.4.0                     Safe, consistent, and easy exception handling
+safecopy-0.9.2                              Binary serialization with version control
+SafeSemaphore-0.10.1                        Much safer replacement for QSemN, QSem, and SampleVar
+sampling-0.2.0                              Sample values from collections
+sandi-0.3.6                                 Data encoding library
+sandman-0.2.0.1                             Manages Cabal sandboxes to avoid rebuilding packages
+sbv-5.11                                    SMT Based Verification: Symbolic Haskell theorem prover using SMT solving
+scalpel-0.3.1                               A high level web scraping library for Haskell
+scanner-0.2                                 Fast non-backtracking incremental combinator parsing for bytestrings
+scientific-0.3.4.9                          Numbers represented using scientific notation
+scotty-0.11.0                               Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp
+scrypt-0.5.0                                Stronger password hashing via sequential memory-hard functions
+sdl2-2.1.3                                  Both high- and low-level bindings to the SDL library (version 2.0.2+)
+securemem-0.1.9                             abstraction to an auto scrubbing and const time eq, memory chunk
+SegmentTree-0.3                             Data structure for querying the set (or count) of intervals covering given point
+semigroupoid-extras-5                       Semigroupoids that depend on PolyKinds
+semigroupoids-5.0.1                         Semigroupoids: Category sans id
+semigroups-0.18.2                           Anything that associates
+semiring-simple-1.0.0.1                     A module for dealing with semirings
+semver-0.3.3.1                              Representation, manipulation, and de/serialisation of Semantic Versions
+sendfile-0.7.9                              A portable sendfile library
+seqalign-0.2.0.4                            Sequence Alignment
+seqloc-0.6.1.1                              Handle sequence locations for bioinformatics
+serf-0.1.1.0                                Interact with Serf via Haskell
+serialport-0.4.7                            Cross platform serial port library
+servant-0.7.1                               A family of combinators for defining webservices APIs
+servant-blaze-0.7.1                         Blaze-html support for servant
+servant-cassava-0.7.1                       Servant CSV content-type for cassava
+servant-client-0.7.1                        automatical derivation of querying functions for servant webservices
+servant-docs-0.7.1                          generate API docs for your servant webservice
+servant-foreign-0.7.1                       Helpers for generating clients for servant APIs in any programming language
+servant-js-0.7.1                            Automatically derive javascript functions to query servant webservices
+servant-JuicyPixels-0.3.0.2                 Servant support for JuicyPixels
+servant-lucid-0.7.1                         Servant support for lucid
+servant-mock-0.7.1                          Derive a mock server for free from your servant API types
+servant-server-0.7.1                        A family of combinators for defining webservices APIs and serving them
+servant-swagger-1.0.3                       Generate Swagger specification for your servant API
+servant-yaml-0.1.0.0                        Servant support for yaml
+serversession-1.0.1                         Secure, modular server-side sessions
+serversession-backend-acid-state-1.0.3      Storage backend for serversession using acid-state
+serversession-backend-persistent-1.0.2      Storage backend for serversession using persistent and an RDBMS
+serversession-backend-redis-1.0.1           Storage backend for serversession using Redis
+serversession-frontend-snap-1.0             Snap bindings for serversession
+serversession-frontend-wai-1.0              wai-session bindings for serversession
+serversession-frontend-yesod-1.0            Yesod bindings for serversession
+servius-1.2.0.2                             Warp web server with template rendering
+ses-html-0.3.0.1                            Send HTML formatted emails using Amazon's SES REST API with blaze
+set-extra-1.4                               Functions that could be added to Data.Set
+set-monad-0.2.0.0                           Set monad
+setenv-0.1.1.3                              A cross-platform library for setting environment variables
+setlocale-1.0.0.4                           Haskell bindings to setlocale
+sets-0.0.5.2                                Ducktyped set interface for Haskell containers
+SHA-1.6.4.2                                 Implementations of the SHA suite of message digest functions
+shake-0.15.10                               Build system library, like Make, but more accurate dependencies
+shake-language-c-0.9.1                      Utilities for cross-compiling with Shake
+shakespeare-2.0.11.2                        A toolkit for making compile-time interpolated templates
+shell-conduit-4.5.2                         Write shell scripts with Conduit
+shelltestrunner-1.3.5                       A tool for testing command-line programs
+shelly-1.6.8.1                              shell-like (systems) programming in Haskell
+shortcut-links-0.4.2.0                      Link shortcuts for use in text markup
+should-not-typecheck-2.1.0                  A HUnit/hspec assertion library to verify that an expression does not typecheck
+signal-0.1.0.3                              Multiplatform signal support for Haskell
+silently-1.2.5                              Prevent or capture writing to stdout and other handles
+simple-0.11.1                               A minimalist web framework for the WAI server interface
+simple-log-0.4.0                            Simple log for Haskell
+simple-postgresql-orm-0.9.0.1               Connector package for integrating postgresql-orm with the Simple web framework
+simple-reflect-0.3.2                        Simple reflection of expressions containing variables
+simple-sendfile-0.2.25                      Cross platform library for the sendfile system call
+simple-session-0.10.1.1                     Cookie-based session management for the Simple web framework
+simple-smt-0.6.0                            A simple way to interact with an SMT solver process
+simple-templates-0.8.0.1                    A basic template language for the Simple web framework
+simpleirc-0.3.1                             Simple IRC Library
+singletons-2.0.1                            A framework for generating singleton types
+siphash-1.0.3                               siphash: a fast short input PRF
+skein-1.0.9.4                               Skein, a family of cryptographic hash functions. Includes Skein-MAC as well
+skeletons-0.4.0                             Manage project skeletons
+slave-thread-1.0.2                          A principal solution to ghost threads and silent exceptions
+slug-0.1.5                                  Type-safe slugs for Yesod ecosystem
+smallcaps-0.6.0.3                           Flatten camel case text in LaTeX files
+smallcheck-1.1.1                            A property-based testing library
+smoothie-0.4.2.3                            Smooth curves via several interpolation modes
+smtLib-1.0.8                                A library for working with the SMTLIB format
+smtp-mail-0.1.4.6                           Simple email sending via SMTP
+snap-0.14.0.7                               Top-level package for the Snap Web Framework
+snap-core-0.9.8.0                           Snap: A Haskell Web Framework (core interfaces and types)
+snap-server-0.9.5.1                         A web server for the Snap Framework
+snaplet-fay-0.3.3.13                        Fay integration for Snap with request- and pre-compilation
+snmp-0.2.1.1                                API for write snmp client
+snowflake-0.1.1.1                           A loose port of Twitter Snowflake to Haskell. Generates arbitrary precision, unique, time-sortable identifiers
+soap-0.2.3.2                                SOAP client tools
+soap-openssl-0.1.0.2                        TLS-enabled SOAP transport (using openssl bindings)
+soap-tls-0.1.1.2                            TLS-enabled SOAP transport (using tls package)
+socket-0.6.1.0                              An extensible socket library
+socket-io-1.3.5
+socks-0.5.5                                 Socks proxy (version 5) implementation
+sodium-0.11.0.3                             Sodium Reactive Programming (FRP) System
+sorted-list-0.1.6.1                         Type-enforced sorted lists and related functions
+sourcemap-0.1.6                             Implementation of source maps as proposed by Google and Mozilla
+spdx-0.2.1.0                                SPDX license expression language
+speculation-1.5.0.3                         A framework for safe, programmable, speculative parallelism
+speedy-slice-0.1.4                          Speedy slice sampling
+sphinx-0.6.0.2                              Haskell bindings to the Sphinx full-text searching daemon
+Spintax-0.1.0.1                             Random text generation based on spintax
+splice-0.6.1.1                              Cross-platform Socket to Socket Data Splicing
+split-0.2.3.1                               Combinator library for splitting lists
+Spock-0.10.0.1                              Another Haskell web framework for rapid development
+Spock-digestive-0.2.0.0                     Digestive functors support for Spock
+Spock-lucid-0.3.0.0                         Lucid support for Spock
+Spock-worker-0.3.0.0                        Background workers for Spock
+spool-0.1                                   Convert between ByteString and Vector.Storable without copying
+spoon-0.3.1                                 Catch errors thrown from pure computations
+sql-words-0.1.4.1                           Simple idea SQL keywords data constructor into OverloadedString
+sqlite-simple-0.4.12.0                      Mid-Level SQLite client library
+srcloc-0.5.1.0                              Data types for managing source code locations
+stack-1.1.2                                 The Haskell Tool Stack
+stack-run-auto-0.1.1.4                      Initial project template from stack
+stackage-0.7.3.2                            Dummy package forcing installation of other Stackage packages
+stackage-build-plan-0.1.1.0                 Calculate and print (in different formats) Stackage build plans
+stackage-cabal-0.1.1                        A CLI executable for cabal-based stackage commands
+stackage-cli-0.1.0.2                        A CLI library for stackage commands
+stackage-curator-0.14.0                     Tools for curating Stackage bundles
+stackage-install-0.1.2                      Secure download of packages for cabal-install
+stackage-metadata-0.3.0.0                   Grab current metadata for all packages
+stackage-sandbox-0.1.6                      Work with shared stackage sandboxes
+stackage-setup-0.0.2                        An executable for downloading a Haskell setup
+stackage-types-1.2.0                        Shared data types between various Stackage packages
+stackage-update-0.1.2                       Update your package index incrementally (requires git)
+stackage-upload-0.1.0.6                     A more secure version of cabal upload which uses HTTPS
+state-plus-0.1.2                            MonadPlus for StateT
+stateref-0.3                                Abstraction for things that work like IORef
+statestack-0.2.0.5                          Simple State-like monad transformer with saveable and restorable state
+StateVar-1.1.0.4                            State variables
+stateWriter-0.2.8                           A faster variant of the RWS monad transformers
+static-canvas-0.2.0.3                       DSL to generate HTML5 Canvas javascript
+statistics-0.13.3.0                         A library of statistical types, data, and functions
+statistics-linreg-0.3                       Linear regression between two samples, based on the 'statistics' package
+stm-2.4.4.1                                 Software Transactional Memory
+stm-chans-3.0.0.4                           Additional types of channels for STM
+stm-conduit-2.8.0                           Introduces conduits to channels, and promotes using conduits concurrently
+stm-containers-0.2.15                       Containers for STM
+stm-delay-0.1.1.1                           Updatable one-shot timer polled with STM
+stm-stats-0.2.0.0                           retry statistics for STM transactions
+STMonadTrans-0.3.4                          A monad transformer version of the ST monad
+stopwatch-0.1.0.3                           A simple stopwatch utility
+storable-complex-0.2.2                      Storable instance for Complex
+storable-endian-0.2.5                       Storable instances with endianness
+Strafunski-StrategyLib-5.0.0.9              Library for strategic programming
+stratosphere-0.1.2.1                        EDSL for AWS CloudFormation
+streaming-0.1.4.3                           an elementary streaming prelude and general stream type
+streaming-bytestring-0.1.4.4                effectful byte steams, or: bytestring io done right
+streaming-commons-0.1.16                    Common lower-level functions needed by various streaming data libraries
+streamproc-1.6.2                            Stream Processer Arrow
+streams-3.2.1                               Various Haskell 2010 stream comonads
+strict-0.3.2                                Strict data types and String IO
+strict-base-types-0.5.0                     Strict variants of the types provided in base
+string-class-0.1.6.5                        String class library
+string-combinators-0.6.0.5                  Polymorphic functions to build and combine stringlike values
+string-conv-0.1.2                           Standardized conversion between string types
+string-conversions-0.4                      Simplifies dealing with different types for strings
+string-qq-0.0.2                             QuasiQuoter for non-interpolated strings, texts and bytestrings
+stringable-0.1.3                            A Stringable type class, in the spirit of Foldable and Traversable
+stringbuilder-0.5.0                         A writer monad for multi-line string literals
+stringsearch-0.3.6.6                        Fast searching, splitting and replacing of ByteStrings
+stripe-core-2.0.3                           Stripe API for Haskell - Pure Core
+stripe-haskell-2.0.3                        Stripe API for Haskell
+stripe-http-streams-2.0.3                   Stripe API for Haskell - http-streams backend
+strive-2.2.2                                A client for the Strava V3 API
+stylish-haskell-0.5.17.0                    Haskell code prettifier
+success-0.2.6                               A version of Either specialised for encoding of success or failure
+sundown-0.6                                 Bindings to the sundown markdown library
+svg-builder-0.1.0.2                         DSL for building SVG
+svg-tree-0.5.1.2                            SVG file loader and serializer
+SVGFonts-1.5.0.1                            Fonts from the SVG-Font format
+swagger-0.2.2                               Implementation of swagger data model
+swagger2-2.0.2                              Swagger 2.0 data model
+syb-0.6                                     Scrap Your Boilerplate
+syb-with-class-0.6.1.7                      Scrap Your Boilerplate With Class
+symbol-0.2.4                                A 'Symbol' type for fast symbol comparison
+sync-mht-0.3.8.5                            Fast incremental file transfer using Merkle-Hash-Trees
+system-argv0-0.1.1                          Get argv[0] as a FilePath
+system-fileio-0.3.16.3                      Consistent filesystem interaction across GHC versions (deprecated)
+system-filepath-0.4.13.4                    High-level, byte-based file and directory path manipulations (deprecated)
+system-posix-redirect-1.1.0.1               A toy module to temporarily redirect a program's stdout
+syz-0.2.0.0                                 Scrap Your Zippers
+tabular-0.2.2.7                             Two-dimensional data tables with rendering functions
+tagged-0.8.4                                Haskell 98 phantom types to avoid unsafely passing dummy arguments
+tagged-binary-0.2.0.0                       Provides tools for serializing data tagged with type information
+taggy-0.2.0                                 Efficient and simple HTML/XML parsing library
+taggy-lens-0.1.2                            Lenses for the taggy html/xml parser
+tagshare-0.0                                TagShare - explicit sharing with tags
+tagsoup-0.13.10                             Parsing and extracting information from (possibly malformed) HTML/XML documents
+tagstream-conduit-0.5.5.3                   streamlined html tag parser
+tar-0.5.0.3                                 Reading, writing and manipulating ".tar" archive files
+tardis-0.4.1.0                              Bidirectional state monad transformer
+tasty-0.11.0.4                              Modern and extensible testing framework
+tasty-ant-xml-1.0.2                         Render tasty output to XML for Jenkins
+tasty-dejafu-0.3.0.2                        Deja Fu support for the Tasty test framework
+tasty-expected-failure-0.11.0.4             Mark tasty tests as failure expected
+tasty-fail-fast-0.0.2                       Adds the ability to fail a tasty test suite on first test failure
+tasty-golden-2.3.1.1                        Golden tests support for tasty
+tasty-hspec-1.1.3                           Hspec support for the Tasty test framework
+tasty-html-0.4.1.1                          Render tasty output to HTML
+tasty-hunit-0.9.2                           HUnit support for the Tasty test framework
+tasty-kat-0.0.3                             Known Answer Tests (KAT) framework for tasty
+tasty-quickcheck-0.8.4                      QuickCheck support for the Tasty test framework
+tasty-rerun-1.1.6                           Run tests by filtering the test tree depending on the result of previous test runs
+tasty-silver-3.1.9                          A fancy test runner, including support for golden tests
+tasty-smallcheck-0.8.1                      SmallCheck support for the Tasty test framework
+tasty-tap-0.0.3                             TAP (Test Anything Protocol) Version 13 formatter for tasty
+tasty-th-0.1.4                              Automatic tasty test case discovery using TH
+Taxonomy-1.0.2                              Libary for parsing, processing and vizualization of taxonomy data
+TaxonomyTools-1.0.0                         Tool for parsing, processing, comparing and visualizing taxonomy data
+TCache-0.12.0                               A Transactional cache with user-defined persistence
+telegram-api-0.5.0.0                        Telegram Bot API bindings
+tellbot-0.6.1                               IRC tellbot
+template-0.2.0.10                           Simple string substitution
+template-haskell-2.10.0.0                   Support library for Template Haskell
+temporary-1.2.0.4                           Portable temporary file and directory support for Windows and Unix, based on code from Cabal
+temporary-rc-1.2.0.3                        Portable temporary file and directory support for Windows and Unix, based on code from Cabal
+terminal-progress-bar-0.0.1.4               A simple progress bar in the terminal
+terminal-size-0.3.2.1                       Get terminal window height and width
+terminfo-0.4.0.2                            Haskell bindings to the terminfo library
+test-framework-0.8.1.1                      Framework for running and organising tests, with HUnit and QuickCheck support
+test-framework-hunit-0.3.0.2                HUnit support for the test-framework package
+test-framework-quickcheck2-0.3.0.3          QuickCheck2 support for the test-framework package
+test-framework-smallcheck-0.2               Support for SmallCheck tests in test-framework
+test-framework-th-0.2.4                     Automagically generate the HUnit- and Quickcheck-bulk-code using Template Haskell
+test-framework-th-prime-0.0.9               Template Haskell for test framework
+test-simple-0.1.9                           Simple Perl inspired testing
+testing-feat-0.4.0.3                        Functional Enumeration of Algebraic Types
+texmath-0.8.6.7                             Conversion between formats used to represent mathematics
+text-1.2.2.1                                An efficient packed Unicode text type
+text-binary-0.2.1.1                         Binary instances for text types
+text-format-0.3.1.1                         Text formatting
+text-icu-0.7.0.1                            Bindings to the ICU library
+text-ldap-0.1.1.8                           Parser and Printer for LDAP text data stream
+text-manipulate-0.2.0.1                     Case conversion, word boundary manipulation, and textual subjugation
+text-postgresql-0.0.2.1                     Parser and Printer of PostgreSQL extended types
+text-region-0.1.0.1                         Marking text regions
+text-show-2.1.2                             Efficient conversion of values into Text
+text-zipper-0.4                             A text editor zipper library
+tf-random-0.5                               High-quality splittable pseudorandom number generator
+th-data-compat-0.0.2.2                      Compatibility for data definition template of TH
+th-desugar-1.5.5                            Functions to desugar Template Haskell
+th-expand-syns-0.4.1.0                      Expands type synonyms in Template Haskell ASTs
+th-extras-0.0.0.4                           A grab bag of functions for use with Template Haskell
+th-lift-0.7.6                               Derive Template Haskell's Lift class for datatypes
+th-lift-instances-0.1.11                    Lift instances for template-haskell for common data types
+th-orphans-0.13.0                           Orphan instances for TH datatypes
+th-reify-compat-0.0.1.1                     Compatibility for the result type of TH reify
+th-reify-many-0.1.6                         Recurseively reify template haskell datatype info
+these-0.6.2.1                               An either-or-both data type & a generalized 'zip with padding' typeclass
+threads-0.5.1.4                             Fork threads and wait for their result
+through-text-0.1.0.0                        Convert textual types through Text without needing O(n^2) instances
+thumbnail-plus-1.0.5                        Generate thumbnails easily and safely
+thyme-0.3.5.5                               A faster time library
+tidal-0.7.1                                 Pattern language for improvised music
+time-1.5.0.1                                A time library
+time-compat-0.1.0.3                         Compatibility with old-time for the time package
+time-lens-0.4.0.1                           Lens-based interface to Data.Time data structures
+time-locale-compat-0.1.1.3                  Compatibility of TimeLocale between old-locale and time-1.5
+time-parsers-0.1.1.0                        Parsers for types in `time`
+time-units-1.0.0                            A basic library for defining units of time as types
+timeit-1.0.0.0                              Time a computation
+timemap-0.0.4                               A mutable hashmap, implicitly indexed by UTCTime
+timerep-2.0.0.2                             Parse and display time according to some RFCs (RFC3339, RFC2822, RFC822)
+timezone-olson-0.1.7                        A pure Haskell parser and renderer for binary Olson timezone files
+timezone-series-0.1.5.1                     Enhanced timezone handling for Data.Time
+tinylog-0.14.0                              Simplistic logging using fast-logger
+tinytemplate-0.1.2.0                        A tiny text templating library
+tls-1.3.8                                   TLS/SSL protocol native implementation (Server and Client)
+tls-debug-0.4.4                             Set of programs for TLS testing and debugging
+token-bucket-0.1.0.1                        Rate limiter using lazy bucket algorithm
+torrent-10000.0.1                           BitTorrent file parser and generater
+tostring-0.2.1.1                            The ToString class
+tracy-0.1.4.0                               Convenience wrappers for non-intrusive debug tracing
+transformers-0.4.2.0                        Concrete functor and monad transformers
+transformers-base-0.4.4                     Lift computations from the bottom of a transformer stack
+transformers-compat-0.4.0.4                 A small compatibility shim exposing the new types from transformers 0.3 and 0.4 to older Haskell platforms
+transformers-lift-0.1.0.1                   Ad-hoc type classes for lifting
+traverse-with-class-0.2.0.4                 Generic applicative traversals
+tree-fun-0.8.1.0                            Library for functions pertaining to tree exploration and manipulation
+tree-view-0.4                               Render trees as foldable HTML and Unicode art
+tries-0.0.4                                 Various trie implementations in Haskell
+trifecta-1.5.2                              A modern parser combinator library with convenient diagnostics
+true-name-0.1.0.2                           Template Haskell hack to violate module abstractions
+ttrie-0.1.2.1                               Contention-free STM hash map
+tttool-1.6.1.2                              Working with files for the Tiptoi® pen
+tuple-0.3.0.2                               Various functions on tuples
+tuple-th-0.2.5                              Generate (non-recursive) utility functions for tuples of statically known size
+tuples-homogenous-h98-0.1.1.0               Wrappers for n-ary tuples with Traversable and Applicative/Monad instances
+turtle-1.2.8                                Shell programming, Haskell-style
+turtle-options-0.1.0.4                      Collection of command line options and parsers for these options
+twitter-conduit-0.2.1                       Twitter API package with conduit interface and Streaming API support
+twitter-feed-0.2.0.11                       Client for fetching Twitter timeline via Oauth
+twitter-types-0.7.2.2                       Twitter JSON parser and types
+twitter-types-lens-0.7.2                    Twitter JSON types (lens powered)
+type-aligned-0.9.6                          Various type-aligned sequence data structures
+type-eq-0.5                                 Type equality evidence you can carry around
+type-level-numbers-0.1.1.1                  Type level numbers implemented using type families
+type-list-0.3.0.4                           Operations on type-level lists and tuples
+typelits-witnesses-0.2.3.0                  Existential witnesses, singletons, and classes for operations on GHC TypeLits
+types-compat-0.1.1                          ghc-7.6/7.8 compatible GHC.TypeLits, Data.Typeable and Data.Proxy
+typography-geometry-1.0.0.1                 Drawings for printed text documents
+tz-0.1.2.0                                  Efficient time zone handling
+tzdata-0.1.20160614.0                       Time zone database (as files and as a module)
+ua-parser-0.7.2                             A library for parsing User-Agent strings, official Haskell port of ua-parser
+uglymemo-0.1.0.1                            A simple (but internally ugly) memoization function
+unbound-generics-0.3.1                      Support for programming with names and binders using GHC Generics
+unbounded-delays-0.1.0.9                    Unbounded thread delays and timeouts
+uncertain-0.3.1.0                           Manipulating numbers with inherent experimental/measurement uncertainty
+unexceptionalio-0.3.0                       IO without any non-error, synchronous exceptions
+unicode-transforms-0.1.0.1                  Unicode normalization
+unification-fd-0.10.0.1                     Simple generic unification algorithms
+union-0.1.1.0                               Extensible type-safe unions
+union-find-0.2                              Efficient union and equivalence testing of sets
+uniplate-1.6.12                             Help writing simple, concise and fast generic operations
+universe-1.0                                Classes for types where we know all the values
+universe-base-1.0.2.1                       A class for finite and recursively enumerable types and some helper functions for enumerating them
+universe-instances-base-1.0                 Universe instances for types from the base package
+universe-instances-extended-1.0.0.1         Universe instances for types from select extra packages
+universe-instances-trans-1.0.0.1            Universe instances for types from the transformers and mtl packages
+universe-reverse-instances-1.0              instances of standard classes that are made possible by enumerations
+unix-2.7.1.0                                POSIX functionality
+unix-bytestring-0.3.7.3                     Unix/Posix-specific functions for ByteStrings
+unix-compat-0.4.1.4                         Portable POSIX-compatibility layer
+unix-time-0.3.7                             Unix time parser/formatter and utilities
+Unixutils-1.54.1                            A crude interface between Haskell and Unix-like operating systems
+unordered-containers-0.2.7.1                Efficient hashing-based container types
+uri-bytestring-0.2.2.1                      Haskell URI parsing as ByteStrings
+uri-encode-1.5.0.5                          Unicode aware uri-encoding
+uri-templater-0.2.0.0                       Parsing & Quasiquoting for RFC 6570 URI Templates
+url-2.1.3                                   A library for working with URLs
+urlpath-5.0.0.1                             Painfully simple URL deployment
+userid-0.1.2.7                              The UserId type and useful instances for web development
+users-0.5.0.0                               A library simplifying user management for web applications
+users-persistent-0.5.0.2                    A persistent backend for the users package
+users-postgresql-simple-0.5.0.2             A PostgreSQL backend for the users package
+users-test-0.5.0.1                          Library to test backends for the users library
+utf8-light-0.4.2                            Unicode
+utf8-string-1.0.1.1                         Support for reading and writing UTF8 Strings
+utility-ht-0.0.12                           Various small helper functions for Lists, Maybes, Tuples, Functions
+uu-interleaved-0.2.0.0                      Providing an interleaving combinator for use with applicative/alternative style implementations
+uu-parsinglib-2.9.1.1                       Fast, online, error-correcting, monadic, applicative, merging, permuting, interleaving, idiomatic parser combinators
+uuid-1.3.12                                 For creating, comparing, parsing and printing Universally Unique Identifiers
+uuid-orphans-1.3.11.1                       Orphan instances for the UUID datatype
+uuid-types-1.0.3                            Type definitions for Universally Unique Identifiers
+vado-0.0.7                                  Runs commands on remote machines using ssh
+validate-input-0.4.0.0                      Input validation combinator library
+validation-0.5.4                            A data-type like Either but with an accumulating Applicative
+validity-0.3.0.4                            Validity typeclass
+vault-0.3.0.6                               a persistent store for values of arbitrary types
+vcsgui-0.1.3.0                              GUI library for source code management systems
+vcswrapper-0.1.3                            Wrapper for source code management systems
+vect-0.4.7                                  A low-dimensional linear algebra library, tailored to computer graphics
+vector-0.11.0.0                             Efficient Arrays
+vector-algorithms-0.7.0.1                   Efficient algorithms for vector arrays
+vector-binary-instances-0.2.3.3             Instances of Data.Binary and Data.Serialize for vector
+vector-buffer-0.4.1                         A buffer compatible with Data.Vector.*
+vector-fftw-0.1.3.7                         A binding to the fftw library for one-dimensional vectors
+vector-instances-3.3.1                      Orphan Instances for 'Data.Vector'
+vector-space-0.10.4                         Vector & affine spaces, linear maps, and derivatives
+vector-th-unbox-0.2.1.6                     Deriver for Data.Vector.Unboxed using Template Haskell
+versions-2.0.0                              Types and parsers for software version numbers
+vhd-0.2.2                                   Provides functions to inspect and manipulate virtual hard disk (VHD) files
+ViennaRNAParser-1.2.9                       Libary for parsing ViennaRNA package output
+vinyl-0.5.3                                 Extensible Records
+vinyl-utils-0.3.0.0                         Utilities for vinyl
+vivid-0.2.0.5                               Sound synthesis with SuperCollider
+void-0.7.1                                  A Haskell 98 logically uninhabited data type
+vty-5.5.0                                   A simple terminal UI library
+wai-3.2.1.1                                 Web Application Interface
+wai-app-static-3.1.6.1                      WAI application for static serving
+wai-conduit-3.0.0.3                         conduit wrappers for WAI
+wai-cors-0.2.5                              CORS for WAI
+wai-eventsource-3.0.0                       WAI support for server-sent events (deprecated)
+wai-extra-3.0.19                            Provides some basic WAI handlers and middleware
+wai-handler-launch-3.0.2.1                  Launch a web app in the default browser
+wai-logger-2.2.7                            A logging system for WAI
+wai-middleware-caching-0.1.0.2              WAI Middleware to cache things
+wai-middleware-caching-lru-0.1.0.0          Initial project template from stack
+wai-middleware-caching-redis-0.2.0.0        Cache Wai Middleware using Redis backend
+wai-middleware-consul-0.1.0.2               Wai Middleware for Consul
+wai-middleware-content-type-0.4.0           Route to different middlewares based on the incoming Accept header
+wai-middleware-crowd-0.1.4.2                Middleware and utilities for using Atlassian Crowd authentication
+wai-middleware-metrics-0.2.3                A WAI middleware to collect EKG request metrics
+wai-middleware-prometheus-0.1.0.1           WAI middlware for exposing http://prometheus.io metrics
+wai-middleware-static-0.8.1                 WAI middleware that serves requests to static files
+wai-middleware-throttle-0.2.1.0             WAI Middleware for Request Throttling
+wai-middleware-verbs-0.2.0                  Route different middleware responses based on the incoming HTTP verb
+wai-predicates-0.8.6                        WAI request predicates
+wai-route-0.3.1.1                           Minimalistic, efficient routing for WAI
+wai-routes-0.9.8                            Typesafe URLs for Wai applications
+wai-routing-0.12.3                          Declarative routing for WAI
+wai-session-0.3.2                           Flexible session middleware for WAI
+wai-session-postgresql-0.2.1.0              PostgreSQL backed Wai session store
+wai-transformers-0.0.7                      Simple parameterization of Wai's Application type
+wai-util-0.8                                Collection of utility functions for use with WAI
+wai-websockets-3.0.1.1                      Provide a bridge between WAI and the websockets package
+waitra-0.0.4.0                              A very simple Wai router
+warp-3.2.9                                  A fast, light-weight web server for WAI applications
+warp-tls-3.2.2                              HTTP over TLS support for Warp via the TLS package
+wavefront-0.7.0.2                           Wavefront OBJ loader
+web-fpco-0.1.1.0                            Wrappers for web frameworks to ease usage with the FP Complete environment
+web-plugins-0.2.9                           dynamic plugin system for web applications
+web-routes-0.27.11                          portable, type-safe URL routing
+web-routes-boomerang-0.28.4.2               Use boomerang for type-safe URL parsers/printers
+web-routes-happstack-0.23.10                Adds support for using web-routes with Happstack
+web-routes-hsp-0.24.6.1                     Adds XMLGenerator instance for RouteT monad
+web-routes-th-0.22.6                        Support for deriving PathInfo using Template Haskell
+web-routes-wai-0.24.3                       Library for maintaining correctness of URLs within an application
+web-routing-0.6.2                           simple routing library
+webdriver-0.8.4                             a Haskell client for the Selenium WebDriver protocol
+webdriver-angular-0.1.10                    Webdriver actions to assist with testing a webpage which uses Angular.Js
+webkitgtk3-0.14.1.1                         Binding to the Webkit library
+webkitgtk3-javascriptcore-0.13.1.2          JavaScriptCore FFI from webkitgtk
+webpage-0.0.4                               Organized and simple web page scaffold for blaze and lucid
+websockets-0.9.8.2                          A sensible and clean way to write WebSocket-capable servers in Haskell
+websockets-snap-0.9.2.0                     Snap integration for the websockets library
+weigh-0.0.3                                 Measure allocations of a Haskell functions/values
+werewolf-1.0.2.2                            A game engine for playing werewolf within an arbitrary chat client
+werewolf-slack-1.0.2.0                      A chat interface for playing werewolf in Slack
+Win32-2.3.1.0                               A binding to part of the Win32 library
+Win32-extras-0.2.0.1                        Provides missing Win32 API
+Win32-notify-0.3.0.1                        A binding to part of the Win32 library for file notification
+with-location-0.1.0                         Use ImplicitParams-based source locations in a backward compatible way
+withdependencies-0.2.4                      Run computations that depend on one or more elements in a stream
+witherable-0.1.3.3                          Generalization of filter and catMaybes
+wizards-1.0.2                               High level, generic library for interrogative user interfaces
+wl-pprint-1.2                               The Wadler/Leijen Pretty Printer
+wl-pprint-extras-3.5.0.5                    A free monad based on the Wadler/Leijen pretty printer
+wl-pprint-terminfo-3.7.1.4                  A color pretty printer with terminfo support
+wl-pprint-text-1.1.0.4                      A Wadler/Leijen Pretty Printer for Text values
+word-trie-0.3.0                             Implementation of a finite trie over words
+word8-0.1.2                                 Word8 library
+wordpass-1.0.0.7                            Dictionary-based password generator
+Workflow-0.8.3                              Workflow patterns over a monad for thread state logging & recovery
+wrap-0.0.0                                  Wrap a function's return value with another function
+wreq-0.4.1.0                                An easy-to-use HTTP client library
+wuss-1.0.4                                  Secure WebSocket (WSS) clients
+X11-1.6.1.2                                 A binding to the X11 graphics library
+x509-1.6.5                                  X509 reader and writer
+x509-store-1.6.2                            X.509 collection accessing and storing methods
+x509-system-1.6.4                           Handle per-operating-system X.509 accessors and storage
+x509-validation-1.6.5                       X.509 Certificate and CRL validation
+Xauth-0.1                                   A binding to the X11 authentication library
+xdcc-1.0.6                                  A wget-like utility for retrieving files from XDCC bots on IRC
+xdg-basedir-0.2.2                           A basic implementation of the XDG Base Directory specification
+xenstore-0.1.1                              Xenstore client access
+xformat-0.1.2.1                             Extensible, type-safe formatting with scanf- and printf-like functions
+xhtml-3000.2.1                              An XHTML combinator library
+xlsior-0.1.0.1                              Streaming Excel file generation and parsing
+xlsx-0.2.4                                  Simple and incomplete Excel file parser/writer
+xlsx-tabular-0.1.0.1                        Xlsx table cell value extraction utility
+xml-1.3.14                                  A simple XML library
+xml-conduit-1.3.5                           Pure-Haskell utilities for dealing with XML with the conduit package
+xml-conduit-parse-0.3.1.0                   Streaming XML parser based on conduits
+xml-conduit-writer-0.1.1.1                  Warm and fuzzy creation of XML documents
+xml-hamlet-0.4.0.12                         Hamlet-style quasiquoter for XML content
+xml-lens-0.1.6.3                            Lenses, traversals, and prisms for xml-conduit
+xml-to-json-2.0.1                           Library and command line tool for converting XML files to json
+xml-to-json-fast-2.0.0                      Fast, light converter of xml to json capable of handling huge xml files
+xml-types-0.3.6                             Basic types for representing XML
+xmlgen-0.6.2.1                              Fast XML generation library
+xmlhtml-0.2.3.5                             XML parser and renderer with HTML 5 quirks mode
+xmonad-0.12                                 A tiling window manager
+xss-sanitize-0.3.5.7                        sanitize untrusted HTML to prevent XSS attacks
+yackage-0.8.1                               Personal Hackage replacement for testing new packages
+yaml-0.8.21.1                               Support for parsing and rendering YAML documents
+yaml-light-0.1.4                            A light-weight wrapper with utility functions around HsSyck
+Yampa-0.10.5                                Library for programming hybrid systems
+YampaSynth-0.2                              Software synthesizer
+yes-precure5-command-5.5.3                  Extended yes command to reproduce phrases in Yes! Precure 5
+yesod-1.4.3.1                               Creation of type-safe, RESTful web applications
+yesod-auth-1.4.15                           Authentication for Yesod
+yesod-auth-account-1.4.3                    An account authentication plugin for Yesod
+yesod-auth-account-fork-2.0.3               An account authentication plugin for Yesod
+yesod-auth-basic-0.1.0.2                    Yesod Middleware for HTTP Basic Authentication
+yesod-auth-deskcom-1.4.0                    Desk.com remote authentication support for Yesod apps
+yesod-auth-fb-1.7                           Authentication backend for Yesod using Facebook
+yesod-auth-hashdb-1.5.1.3                   Authentication plugin for Yesod
+yesod-auth-oauth2-0.1.10                    OAuth 2.0 authentication plugins
+yesod-bin-1.4.18.7                          The yesod helper executable
+yesod-core-1.4.30                           Creation of type-safe, RESTful web applications
+yesod-default-1.2.0                         Default config and main functions for your yesod application (deprecated)
+yesod-eventsource-1.4.0.1                   Server-sent events support for Yesod apps
+yesod-fay-0.8.0                             Utilities for using the Fay Haskell-to-JS compiler with Yesod
+yesod-fb-0.3.4                              Useful glue functions between the fb library and Yesod
+yesod-form-1.4.9                            Form handling support for Yesod Web Framework
+yesod-form-richtext-0.1.0.0                 Various rich-text WYSIWYG editors for Yesod forms
+yesod-gitrepo-0.2.1.0                       Host content provided by a Git repo
+yesod-gitrev-0.1.0.0                        A subsite for displaying git information
+yesod-job-queue-0.3.0.1                     Background jobs library for Yesod
+yesod-newsfeed-1.6                          Helper functions and data types for producing News feeds
+yesod-persistent-1.4.0.6                    Some helpers for using Persistent from Yesod
+yesod-sitemap-1.4.0.1                       Generate XML sitemaps
+yesod-static-1.5.1.1                        Static file serving subsite for Yesod Web Framework
+yesod-static-angular-0.1.8                  Yesod generators for embedding AngularJs code into yesod-static at compile time
+yesod-table-2.0.3                           HTML tables for Yesod
+yesod-test-1.5.4.1                          integration testing for WAI/Yesod Applications
+yesod-text-markdown-0.1.8                   Yesod support for Text.Markdown
+yesod-websockets-0.2.4.1                    WebSockets support for Yesod
+yi-0.12.6                                   Yi editor
+yi-fuzzy-open-0.1.0.1                       Fuzzy open plugin for yi
+yi-language-0.2.1                           Collection of language-related Yi libraries
+yi-rope-0.7.0.2                             A rope data structure used by Yi
+yjtools-0.9.18                              some tools for Monad, List, Tuple and so on
+zero-0.1.4                                  Semigroups with absorption
+zeromq4-haskell-0.6.5                       Bindings to ZeroMQ 4.x
+zim-parser-0.2.1.0                          Read and parse ZIM files
+zip-0.1.3                                   Operations on zip archives
+zip-archive-0.2.3.7                         Library for creating and modifying zip archives
+zippers-0.2.2                               Traversal based zippers
+zlib-0.6.1.2                                Compression and decompression in the gzip and zlib formats
+zlib-bindings-0.1.1.5                       Low-level bindings to the zlib package
+zlib-enum-0.2.3.1                           Enumerator interface for zlib compression
+zlib-lens-0.1.2.1                           Lenses for zlib
+zot-0.0.3                                   Zot language
