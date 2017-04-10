@@ -85,3 +85,11 @@ Possible usage of the resulting image:
     > docker run -v `pwd`:/source e7d3c36655 sh -c 'cd /source ; cabal install'
 
 Normally the second image ID is tagged as `images.reesd.com/reesd/stack`.
+
+## Notes
+
+The file, say, `stackage-lts-6.31-ghc-7.10.3.txt` is produced by copy/pasting https://www.stackage.org/lts-6.31 and running
+
+```
+column -t -s $'\t' images/stack-dependencies/stackage-lts-6.31-ghc-7.10.3.txt
+```

@@ -1,0 +1,89 @@
+resource-pool-catchio-0.2.1.0               XXXXXXXXX For Reesd, not in this Stackage
+snap-blaze-0.2.1.5                          XXXXXXXXX For Reesd, not in this Stackage
+aeson-0.11.3.0                              Fast JSON parsing and encoding
+aeson-pretty-0.7.2                          JSON pretty-printing library and command-line tool
+attoparsec-0.13.1.0                         Fast combinator parsing for bytestrings and text
+authenticate-1.3.3.2                        Authentication methods for Haskell web applications
+base-4.8.2.0                                Basic libraries
+binary-0.7.5.0                              Binary serialisation for Haskell values using lazy ByteStrings
+blaze-builder-0.4.0.2                       Efficient buffered output
+blaze-builder-enumerator-0.2.1.0            Enumeratees for the incremental conversion of builders to bytestrings
+blaze-html-0.8.1.3                          A blazingly fast HTML combinator library for Haskell
+blaze-markup-0.7.1.1                        A blazingly fast markup combinator library for Haskell
+bytestring-0.10.6.0                         Fast, compact, strict and lazy byte strings with a list interface
+case-insensitive-1.2.0.8                    Case insensitive string comparison
+cereal-0.5.2.0                              A binary serialization library
+cipher-aes-0.2.11                           Fast AES cipher implementation with advanced mode of operations
+cmdargs-0.10.17                             Command line argument processing
+comonad-4.2.7.2                             Comonads
+containers-0.5.6.2                          Assorted concrete container types
+contravariant-1.4                           Contravariant functors
+cprng-aes-0.6.1                             Crypto Pseudo Random Number Generator using AES in counter mode
+crypto-numbers-0.2.7                        Cryptographic numbers: functions and algorithms
+crypto-pubkey-0.2.8                         Public Key cryptography
+directory-1.2.2.0                           Platform-agnostic library for filesystem operations
+dlist-0.7.1.2                               Difference lists
+either-4.4.1.1                              An either monad transformer
+engine-io-1.2.15                            A Haskell implementation of Engine.IO
+filemanip-0.3.6.3                           Expressive file and directory manipulation for Haskell
+filepath-1.4.0.0                            Library for manipulating FilePaths in a cross platform way
+foreign-store-0.2                           Store a stable pointer in a foreign context to be retrieved later
+ghcid-0.6.6                                 GHCi based bare bones IDE
+hakyll-4.8.3.2                              A static website compiler library
+hashable-1.2.4.0                            A class for types that can be converted to a hash value
+hledger-0.27                                Command-line interface for the hledger accounting tool
+HsOpenSSL-0.11.4.6                          Partial OpenSSL binding for Haskell
+http-client-0.4.31.2                        An HTTP client engine
+http-client-tls-0.2.4.1                     http-client backend using the connection package and tls library
+http-conduit-2.1.11                         HTTP client package with conduit interface and HTTPS support
+http-streams-0.8.3.3                        An HTTP client using io-streams
+io-streams-1.3.6.1                          Simple, composable, and easy-to-use stream I/O
+lens-4.13                                   Lenses, Folds and Traversals
+MemoTrie-0.6.7                              Trie-based memo functions
+mime-mail-0.4.13.1                          Compose MIME email messages
+MonadCatchIO-transformers-0.3.1.3           Monad-transformer compatible version of the Control.Exception module
+mtl-2.2.1                                   Monad classes, using functional dependencies
+network-2.6.3.1                             Low-level networking interface
+old-locale-1.0.0.7                          locale library
+pandoc-1.17.1                               Conversion between markup formats
+pandoc-citeproc-0.9.1.1                     Supports using pandoc with citeproc
+pandoc-types-1.16.1.1                       Types for representing a structured document
+postgresql-simple-0.5.2.1                   Mid-Level PostgreSQL client library
+primitive-0.6.1.0                           Primitive memory-related operations
+process-1.2.3.0                             Process libraries
+profunctors-5.2                             Profunctors
+pwstore-fast-2.4.4                          Secure password storage
+QuickCheck-2.8.2                            Automatic testing of Haskell programs
+random-1.1                                  random number library
+regex-posix-0.95.2                          Replaces/Enhances Text.Regex
+regex-tdfa-1.2.2                            Replaces/Enhances Text.Regex
+safecopy-0.9.3.1                            Binary serialization with version control
+semigroupoids-5.0.1                         Semigroupoids: Category sans id
+SHA-1.6.4.2                                 Implementations of the SHA suite of message digest functions
+shake-0.15.11                               Build system library, like Make, but more accurate dependencies
+smtp-mail-0.1.4.6                           Simple email sending via SMTP
+snap-0.14.0.7                               Top-level package for the Snap Web Framework
+snap-core-0.9.8.0                           Snap: A Haskell Web Framework (core interfaces and types)
+snap-server-0.9.5.1                         A web server for the Snap Framework
+socket-io-1.3.7
+tagged-0.8.4                                Haskell 98 phantom types to avoid unsafely passing dummy arguments
+tasty-0.11.2                                Modern and extensible testing framework
+tasty-hspec-1.1.3.1                         Hspec support for the Tasty test framework
+tasty-hunit-0.9.2                           HUnit support for the Tasty test framework
+tasty-quickcheck-0.8.4                      QuickCheck support for the Tasty test framework
+tasty-smallcheck-0.8.1                      SmallCheck support for the Tasty test framework
+template-0.2.0.10                           Simple string substitution
+temporary-1.2.0.4                           Portable temporary file and directory support for Windows and Unix, based on code from Cabal
+thyme-0.3.5.5                               A faster time library
+time-1.5.0.1                                A time library
+tls-1.3.10                                  TLS/SSL protocol native implementation (Server and Client)
+transformers-0.4.2.0                        Concrete functor and monad transformers
+transformers-compat-0.4.0.4                 A small compatibility shim exposing the new types from transformers 0.3 and 0.4 to older Haskell platforms
+unix-2.7.1.0                                POSIX functionality
+unordered-containers-0.2.8.0                Efficient hashing-based container types
+uuid-1.3.13                                 For creating, comparing, parsing and printing Universally Unique Identifiers
+vector-0.11.0.0                             Efficient Arrays
+websockets-0.9.8.2                          A sensible and clean way to write WebSocket-capable servers in Haskell
+websockets-snap-0.9.2.0                     Snap integration for the websockets library
+wreq-0.4.1.0                                An easy-to-use HTTP client library
+xmlhtml-0.2.3.5                             XML parser and renderer with HTML 5 quirks mode

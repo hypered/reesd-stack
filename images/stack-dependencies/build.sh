@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -e
+
 BUILD_DEPENDS="build-depends.${1}"
 
 cabal update
@@ -8,6 +10,7 @@ sed -i 's/hackage.haskell.org\/packages\/archive/hackage.reesd.com\//' /home/gus
 cabal update
 
 cd /home/gusdev/stack-dependencies
+./generate-build-depends.sh
 
 cat reesd-dependencies.cabal.template ${BUILD_DEPENDS} > reesd-dependencies.cabal
 
@@ -34,7 +37,7 @@ case ${BUILD_DEPENDS} in
   *)
 
   # Otherwise alex or happy will install a more recent QuickCheck.
-  cabal install QuickCheck-2.7.6
+  cabal install QuickCheck-2.8.2
   cabal install alex happy
   cabal install --only-dependencies
   ;;
