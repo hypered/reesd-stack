@@ -36,7 +36,7 @@ HsOpenSSL-0.11.4.6                          Partial OpenSSL binding for Haskell
 http-client-0.4.31.2                        An HTTP client engine
 http-client-tls-0.2.4.1                     http-client backend using the connection package and tls library
 http-conduit-2.1.11                         HTTP client package with conduit interface and HTTPS support
-http-streams-0.8.3.3                        An HTTP client using io-streams
+http-streams-0.8.5.3                        An HTTP client using io-streams  # XXXX For Reesd, normally it is 8.3.3 but support for SNI is in 8.5.3.
 io-streams-1.3.6.1                          Simple, composable, and easy-to-use stream I/O
 lens-4.13                                   Lenses, Folds and Traversals
 MemoTrie-0.6.7                              Trie-based memo functions
