@@ -34,6 +34,11 @@ case ${BUILD_DEPENDS} in
   cabal install --only-dependencies
   ;;
 
+  build-depends.lts-9.21-reesd)
+  cabal install alex happy
+  cabal install --only-dependencies
+  ;;
+
   *)
 
   # Otherwise alex or happy will install a more recent QuickCheck.

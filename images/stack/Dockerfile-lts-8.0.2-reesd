@@ -1,0 +1,7 @@
+FROM images.reesd.com/reesd/stack-dependencies:8.0.2
+
+USER gusdev
+WORKDIR /home/gusdev
+ENV HOME /home/gusdev
+RUN /home/gusdev/stack-dependencies/build.sh lts-9.21-reesd
+CMD ghc-pkg list

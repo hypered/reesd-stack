@@ -8,9 +8,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -q -y ghc cabal-install
 RUN apt-get install -q -y git
 
 # Dependencies for some Haskell packages
-RUN apt-get install -q -y libpq-dev
-RUN apt-get install -q -y libssl-dev
-RUN apt-get install -q -y zlib1g-dev
+RUN apt-get install -q -y libpq-dev libssl-dev zlib1g-dev zip
 
 RUN useradd -s /bin/bash -m gusdev
 
@@ -21,4 +19,5 @@ USER gusdev
 WORKDIR /home/gusdev
 ENV HOME /home/gusdev
 ENV PATH /home/gusdev/.cabal/bin:$PATH
+ENV LANG=en_US.UTF-8
 CMD /home/gusdev/stack-dependencies/build.sh

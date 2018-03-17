@@ -1,5 +1,3 @@
-resource-pool-catchio-0.2.1.0               XXXXXXXXX For Reesd, not in this Stackage
-snap-blaze-0.2.1.5                          XXXXXXXXX For Reesd, not in this Stackage
 aeson-0.11.3.0                              Fast JSON parsing and encoding
 aeson-pretty-0.7.2                          JSON pretty-printing library and command-line tool
 attoparsec-0.13.1.0                         Fast combinator parsing for bytestrings and text
@@ -57,12 +55,14 @@ QuickCheck-2.8.2                            Automatic testing of Haskell program
 random-1.1                                  random number library
 regex-posix-0.95.2                          Replaces/Enhances Text.Regex
 regex-tdfa-1.2.2                            Replaces/Enhances Text.Regex
+resource-pool-catchio-0.2.1.0               XXXXXXXXX For Reesd, not in this Stackage
 safecopy-0.9.3.1                            Binary serialization with version control
 semigroupoids-5.0.1                         Semigroupoids: Category sans id
 SHA-1.6.4.2                                 Implementations of the SHA suite of message digest functions
 shake-0.15.11                               Build system library, like Make, but more accurate dependencies
 smtp-mail-0.1.4.6                           Simple email sending via SMTP
 snap-0.14.0.7                               Top-level package for the Snap Web Framework
+snap-blaze-0.2.1.5                          XXXXXXXXX For Reesd, not in this Stackage
 snap-core-0.9.8.0                           Snap: A Haskell Web Framework (core interfaces and types)
 snap-server-0.9.5.1                         A web server for the Snap Framework
 socket-io-1.3.7
