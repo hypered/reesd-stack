@@ -79,3 +79,13 @@ vector-0.12.0.1                             Efficient Arrays
 websockets-0.10.0.0                         A sensible and clean way to write WebSocket-capable servers in Haskell
 websockets-snap-0.10.2.4                    Snap integration for the websockets library
 wreq-0.5.0.1                                An easy-to-use HTTP client library
+configurator-0.3.0.0                        XXX Reesd dependencies (here, all required by snaplet-postgreql-simple)
+directory-tree-0.12.1                       XXX
+map-syntax-0.2.0.2                          XXX
+resource-pool-0.2.3.2                       XXX
+skein-1.0.9.4                               XXX
+xmlhtml-0.2.5.2                             XXX
+clientsession-0.9.1.2                       XXX
+heist-1.0.1.2                               XXX
+snap-1.1.0.0                                XXX
+snap-blaze-0.2.1.5                          XXX Another one
