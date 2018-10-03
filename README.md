@@ -93,3 +93,21 @@ The file, say, `stackage-lts-6.31-ghc-7.10.3.txt` is produced by copy/pasting ht
 ```
 column -t -s $'\t' images/stack-dependencies/stackage-lts-6.31-ghc-7.10.3.txt
 ```
+
+
+## Stackage overlay
+
+The file `release.nix` is used as an alternative to the Docker-based stack.  It
+is using the https://github.com/noteed/nixpkgs-stackage overlay (a slightly
+modified copy of the same repository by Typeable).
+
+An alternative way to use that overlay is with the file
+`stackage-overlay/default.nix` (wich assumes a clone of the repository besides
+this one):
+
+```
+$ nix-shell -I nixpkgs-overlays=./stackage-overlay -p haskell.packages.stackage.lts-921-reesd.ghc
+```
+
+Note that there is also https://github.com/serokell/stackage-nix that might be
+interesting.
